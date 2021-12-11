@@ -1,0 +1,401 @@
+Log;srcID;lesID
+[2021-11-17 22:00:00.462] [info   ] [av_pp_prov ] [ 3840:16804] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-17 22:00:00.462] [info   ] [av_pp_prov ] [ 3840:16804] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-17 22:00:08.962] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-17 22:02:19.791] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-17 22:10:08.970] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-17 22:12:24.723] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-17 22:13:25.484] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_ads);3;30
+[2021-11-17 22:13:25.484] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_pmlex);3;30
+[2021-11-17 22:13:25.484] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_pmlst);3;30
+[2021-11-17 22:13:25.485] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params;3;30
+[2021-11-17 22:13:25.485] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params, elm:-1;3;30
+[2021-11-17 22:13:25.485] [info   ] [av_pp_prov ] [ 3840: 7800] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-17 22:13:25.527] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-17 22:13:25.527] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-17 22:13:25.537] [info   ] [pp_provider] [ 3840: 7800] pp_provider::OnGetUrlParamsBase64Ex;3;30
+[2021-11-17 22:13:25.591] [warning] [av_pp_prov ] [ 3840: 7800] app.anen.storage.app.preferred_network_value.get, key network_vulnerabilities (2);3;30
+[2021-11-17 22:13:25.612] [warning] [av_pp_prov ] [ 3840: 7800] Exception: Request 'public.AvastSecureLine.GetState' was not processed. Routing parameters:;3;30
+[2021-11-17 22:13:25.644] [info   ] [aavm       ] [ 3840: 7800] - In AavmGetEngineHandle;3;30
+[2021-11-17 22:13:25.655] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::GetLocalPpProviderGpb;3;30
+[2021-11-17 22:13:25.655] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params;3;30
+[2021-11-17 22:13:25.655] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params, elm:229;3;30
+[2021-11-17 22:13:25.656] [info   ] [av_pp_prov ] [ 3840: 7800] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-17 22:13:25.693] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-17 22:13:25.693] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-17 22:13:25.693] [info   ] [pp_provider] [ 3840: 7800] pp_provider::OnGetUrlParamsBase64Ex - serializing gpb;3;30
+[2021-11-17 22:13:25.695] [info   ] [nl_svc     ] [ 3840: 2984] Reserve action was acknowledged ('toaster_limit').;3;30
+[2021-11-17 22:13:25.696] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value settings;3;30
+[2021-11-17 22:13:35.700] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value settings;3;30
+[2021-11-17 22:18:25.696] [warning] [av_pp_prov ] [ 3840:15680] unknown tag to get value for (p_ads);3;30
+[2021-11-17 22:18:25.696] [warning] [av_pp_prov ] [ 3840:15680] unknown tag to get value for (p_pmlex);3;30
+[2021-11-17 22:18:25.696] [warning] [av_pp_prov ] [ 3840:15680] unknown tag to get value for (p_pmlst);3;30
+[2021-11-17 22:18:25.697] [info   ] [av_pp_prov ] [ 3840:15680] AvastIpmUrlApi::collect_params;3;30
+[2021-11-17 22:18:25.697] [info   ] [av_pp_prov ] [ 3840:15680] AvastIpmUrlApi::collect_simple_params, elm:-1;3;30
+[2021-11-17 22:18:25.697] [info   ] [av_pp_prov ] [ 3840:15680] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-17 22:18:25.711] [info   ] [pp_provider] [ 3840:12680] pp_provider::OnGetUrlParamsBase64Ex;3;30
+[2021-11-17 22:18:25.731] [info   ] [av_pp_prov ] [ 3840:15680] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-17 22:18:25.731] [info   ] [av_pp_prov ] [ 3840:15680] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-17 22:18:25.741] [warning] [av_pp_prov ] [ 3840:12680] app.anen.storage.app.preferred_network_value.get, key network_vulnerabilities (2);3;30
+[2021-11-17 22:18:25.752] [warning] [av_pp_prov ] [ 3840:12680] Exception: Request 'public.AvastSecureLine.GetState' was not processed. Routing parameters:;3;30
+[2021-11-17 22:18:25.766] [info   ] [aavm       ] [ 3840:12680] - In AavmGetEngineHandle;3;30
+[2021-11-17 22:18:25.775] [info   ] [av_pp_prov ] [ 3840:12680] AvastIpmUrlApi::GetLocalPpProviderGpb;3;30
+[2021-11-17 22:18:25.775] [info   ] [av_pp_prov ] [ 3840:12680] AvastIpmUrlApi::collect_params;3;30
+[2021-11-17 22:18:25.775] [info   ] [av_pp_prov ] [ 3840:12680] AvastIpmUrlApi::collect_simple_params, elm:229;3;30
+[2021-11-17 22:18:25.775] [info   ] [av_pp_prov ] [ 3840:12680] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-17 22:18:25.805] [info   ] [av_pp_prov ] [ 3840:12680] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-17 22:18:25.805] [info   ] [av_pp_prov ] [ 3840:12680] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-17 22:18:25.805] [info   ] [pp_provider] [ 3840:12680] pp_provider::OnGetUrlParamsBase64Ex - serializing gpb;3;30
+[2021-11-17 22:18:25.805] [info   ] [pp_provider] [ 3840:15680] pp_provider::OnGetUrlParamsBase64Ex;3;30
+[2021-11-17 22:18:25.808] [info   ] [nl_svc     ] [ 3840: 2984] Reserve action was acknowledged ('toaster_limit').;3;30
+[2021-11-17 22:18:25.808] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value settings;3;30
+[2021-11-17 22:18:25.830] [warning] [av_pp_prov ] [ 3840:15680] app.anen.storage.app.preferred_network_value.get, key network_vulnerabilities (2);3;30
+[2021-11-17 22:18:25.842] [warning] [av_pp_prov ] [ 3840:15680] Exception: Request 'public.AvastSecureLine.GetState' was not processed. Routing parameters:;3;30
+[2021-11-17 22:18:25.857] [info   ] [av_pp_prov ] [ 3840:15680] AvastIpmUrlApi::GetLocalPpProviderGpb;3;30
+[2021-11-17 22:18:25.857] [info   ] [av_pp_prov ] [ 3840:15680] AvastIpmUrlApi::collect_params;3;30
+[2021-11-17 22:18:25.857] [info   ] [av_pp_prov ] [ 3840:15680] AvastIpmUrlApi::collect_simple_params, elm:229;3;30
+[2021-11-17 22:18:25.857] [info   ] [av_pp_prov ] [ 3840:15680] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-17 22:18:25.887] [info   ] [av_pp_prov ] [ 3840:15680] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-17 22:18:25.887] [info   ] [av_pp_prov ] [ 3840:15680] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-17 22:18:25.887] [info   ] [pp_provider] [ 3840:15680] pp_provider::OnGetUrlParamsBase64Ex - serializing gpb;3;30
+[2021-11-17 22:18:25.888] [info   ] [nl_svc     ] [ 3840:10692] Reserve action was acknowledged ('toaster_limit').;3;30
+[2021-11-17 22:18:30.822] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value settings;3;30
+[2021-11-17 22:20:08.984] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-17 22:22:29.610] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-17 22:23:25.819] [info   ] [pp_provider] [ 3840:13636] pp_provider::OnGetUrlParamsBase64Ex;3;30
+[2021-11-17 22:23:25.846] [warning] [av_pp_prov ] [ 3840:13636] app.anen.storage.app.preferred_network_value.get, key network_vulnerabilities (2);3;30
+[2021-11-17 22:23:25.858] [warning] [av_pp_prov ] [ 3840:13636] Exception: Request 'public.AvastSecureLine.GetState' was not processed. Routing parameters:;3;30
+[2021-11-17 22:23:25.871] [info   ] [aavm       ] [ 3840:13636] - In AavmGetEngineHandle;3;30
+[2021-11-17 22:23:25.880] [info   ] [av_pp_prov ] [ 3840:13636] AvastIpmUrlApi::GetLocalPpProviderGpb;3;30
+[2021-11-17 22:23:25.880] [info   ] [av_pp_prov ] [ 3840:13636] AvastIpmUrlApi::collect_params;3;30
+[2021-11-17 22:23:25.880] [info   ] [av_pp_prov ] [ 3840:13636] AvastIpmUrlApi::collect_simple_params, elm:229;3;30
+[2021-11-17 22:23:25.880] [info   ] [av_pp_prov ] [ 3840:13636] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-17 22:23:25.910] [info   ] [av_pp_prov ] [ 3840:13636] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-17 22:23:25.910] [info   ] [av_pp_prov ] [ 3840:13636] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-17 22:23:25.910] [info   ] [pp_provider] [ 3840:13636] pp_provider::OnGetUrlParamsBase64Ex - serializing gpb;3;30
+[2021-11-17 22:23:25.913] [info   ] [nl_svc     ] [ 3840: 5892] Reserve action was acknowledged ('toaster_limit').;3;30
+[2021-11-17 22:23:25.913] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value settings;3;30
+[2021-11-17 22:23:30.928] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value settings;3;30
+[2021-11-17 22:28:25.932] [info   ] [pp_provider] [ 3840: 8596] pp_provider::OnGetUrlParamsBase64Ex;3;30
+[2021-11-17 22:28:25.959] [warning] [av_pp_prov ] [ 3840: 8596] app.anen.storage.app.preferred_network_value.get, key network_vulnerabilities (2);3;30
+[2021-11-17 22:28:25.972] [warning] [av_pp_prov ] [ 3840: 8596] Exception: Request 'public.AvastSecureLine.GetState' was not processed. Routing parameters:;3;30
+[2021-11-17 22:28:25.985] [info   ] [aavm       ] [ 3840: 8596] - In AavmGetEngineHandle;3;30
+[2021-11-17 22:28:25.993] [info   ] [av_pp_prov ] [ 3840: 8596] AvastIpmUrlApi::GetLocalPpProviderGpb;3;30
+[2021-11-17 22:28:25.993] [info   ] [av_pp_prov ] [ 3840: 8596] AvastIpmUrlApi::collect_params;3;30
+[2021-11-17 22:28:25.993] [info   ] [av_pp_prov ] [ 3840: 8596] AvastIpmUrlApi::collect_simple_params, elm:229;3;30
+[2021-11-17 22:28:25.993] [info   ] [av_pp_prov ] [ 3840: 8596] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-17 22:28:26.022] [info   ] [av_pp_prov ] [ 3840: 8596] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-17 22:28:26.022] [info   ] [av_pp_prov ] [ 3840: 8596] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-17 22:28:26.022] [info   ] [pp_provider] [ 3840: 8596] pp_provider::OnGetUrlParamsBase64Ex - serializing gpb;3;30
+[2021-11-17 22:28:26.024] [info   ] [nl_svc     ] [ 3840:10692] Reserve action was acknowledged ('toaster_limit').;3;30
+[2021-11-17 22:28:33.375] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value settings;3;30
+[2021-11-17 22:30:08.998] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-17 22:32:34.638] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-17 22:40:09.014] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-17 22:42:39.525] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-17 22:50:09.022] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-17 22:52:44.225] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-17 22:55:36.718] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-17 22:55:36.718] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-17 22:55:36.718] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-17 22:56:38.761] [info   ] [serv       ] [ 3840: 7836] Connected - call update.;3;30
+[2021-11-17 22:56:38.761] [info   ] [serv       ] [ 3840: 7836] TASKGUID_UPDATE_FINISHINSTALLATION started;3;30
+[2021-11-17 23:00:09.028] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-17 23:02:48.579] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-17 23:07:06.519] [info   ] [pp_provider] [ 3840:12680] OnUpdateProductsList, products:;3;30
+[2021-11-17 23:07:06.581] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 211311943;3;30
+[2021-11-17 23:07:06.581] [info   ] [perf_report] [ 3840: 5364] id: 3 -> CPU: 0, RAM 27670401;3;30
+[2021-11-17 23:07:06.581] [info   ] [perf_report] [ 3840: 5364] id: 6 -> CPU: 0, RAM 81920;3;30
+[2021-11-17 23:07:06.581] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 72753549;3;30
+[2021-11-17 23:07:06.581] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6769626;3;30
+[2021-11-17 23:07:06.581] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 103509916;3;30
+[2021-11-17 23:07:06.581] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 64262501;3;30
+[2021-11-17 23:07:07.232] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 216317952;3;30
+[2021-11-17 23:07:07.232] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 76296192;3;30
+[2021-11-17 23:07:07.232] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6787072;3;30
+[2021-11-17 23:07:07.232] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 113983488;3;30
+[2021-11-17 23:07:07.232] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 103346176;3;30
+[2021-11-17 23:07:08.070] [info   ] [nosclient  ] [ 3840: 2600] connection no longer usable;3;30
+[2021-11-17 23:07:08.070] [error  ] [streaming  ] [ 3840: 5324] Streaming update request to su.ff.avast.com failed with error 11207:;3;30
+[2021-11-17 23:07:08.086] [info   ] [shepsync   ] [ 3840: 4592] Update postponed, no internet connectivity;3;30
+[2021-11-18 08:54:10.500] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 08:54:10.972] [info   ] [evnt_mgr   ] [ 3840: 4128]  sent;3;30
+[2021-11-18 08:54:12.180] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 08:54:12.180] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 08:54:13.583] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_ads);3;30
+[2021-11-18 08:54:13.583] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_pmlex);3;30
+[2021-11-18 08:54:13.583] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_pmlst);3;30
+[2021-11-18 08:54:13.584] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params;3;30
+[2021-11-18 08:54:13.584] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params, elm:-1;3;30
+[2021-11-18 08:54:13.584] [info   ] [av_pp_prov ] [ 3840: 7800] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-18 08:54:13.604] [warning] [av_pp_prov ] [ 3840: 7800] app.ui.GetIpmParams failed: Request 'app.ui.GetIpmParams' was not processed. Routing parameters:;3;30
+[2021-11-18 08:54:13.604] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-18 08:54:13.604] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-18 08:54:13.618] [warning] [av_pp_prov ] [ 3840: 2788] unknown tag to get value for (p_ads);3;30
+[2021-11-18 08:54:13.618] [warning] [av_pp_prov ] [ 3840: 2788] unknown tag to get value for (p_pmlex);3;30
+[2021-11-18 08:54:13.618] [warning] [av_pp_prov ] [ 3840: 2788] unknown tag to get value for (p_pmlst);3;30
+[2021-11-18 08:54:13.619] [info   ] [av_pp_prov ] [ 3840: 2788] AvastIpmUrlApi::collect_params;3;30
+[2021-11-18 08:54:13.619] [info   ] [av_pp_prov ] [ 3840: 2788] AvastIpmUrlApi::collect_simple_params, elm:-1;3;30
+[2021-11-18 08:54:13.619] [info   ] [av_pp_prov ] [ 3840: 2788] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-18 08:54:13.627] [warning] [av_pp_prov ] [ 3840: 2788] app.ui.GetIpmParams failed: Request 'app.ui.GetIpmParams' was not processed. Routing parameters:;3;30
+[2021-11-18 08:54:13.627] [info   ] [av_pp_prov ] [ 3840: 2788] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-18 08:54:13.627] [info   ] [av_pp_prov ] [ 3840: 2788] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-18 08:54:13.640] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 216297472;3;30
+[2021-11-18 08:54:13.640] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 76296192;3;30
+[2021-11-18 08:54:13.640] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6729728;3;30
+[2021-11-18 08:54:13.640] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 114192384;3;30
+[2021-11-18 08:54:13.640] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 103378944;3;30
+[2021-11-18 08:54:13.695] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 08:54:13.695] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 08:54:13.695] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 08:54:15.218] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 08:54:15.218] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 08:54:15.218] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 08:54:16.734] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 08:54:16.734] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 08:54:16.734] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 08:54:18.252] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 08:54:18.252] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 08:54:18.252] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 08:54:19.767] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 08:54:19.767] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 08:54:19.767] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 08:54:30.355] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 216233984;3;30
+[2021-11-18 08:54:30.355] [info   ] [perf_report] [ 3840: 5364] id: 6 -> CPU: 0, RAM 6688768;3;30
+[2021-11-18 08:54:30.355] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 76296192;3;30
+[2021-11-18 08:54:30.355] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6772736;3;30
+[2021-11-18 08:54:30.355] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 114163712;3;30
+[2021-11-18 08:54:30.355] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 92624668;3;30
+[2021-11-18 08:54:30.359] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_ads);3;30
+[2021-11-18 08:54:30.359] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_pmlex);3;30
+[2021-11-18 08:54:30.359] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_pmlst);3;30
+[2021-11-18 08:54:30.360] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params;3;30
+[2021-11-18 08:54:30.360] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params, elm:-1;3;30
+[2021-11-18 08:54:30.360] [info   ] [av_pp_prov ] [ 3840: 7800] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-18 08:54:30.399] [warning] [av_pp_prov ] [ 3840: 7800] app.ui.GetIpmParams failed: Request 'app.ui.GetIpmParams' was not processed. Routing parameters:;3;30
+[2021-11-18 08:54:30.399] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-18 08:54:30.399] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-18 08:54:30.603] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 216170496;3;30
+[2021-11-18 08:54:30.603] [info   ] [perf_report] [ 3840: 5364] id: 6 -> CPU: 0, RAM 6688768;3;30
+[2021-11-18 08:54:30.604] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 76296192;3;30
+[2021-11-18 08:54:30.604] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6815744;3;30
+[2021-11-18 08:54:30.604] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 114192384;3;30
+[2021-11-18 08:54:30.604] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 84032716;3;30
+[2021-11-18 08:54:35.237] [info   ] [aavm       ] [ 3840:13376] - avldrLoadModule [0];3;30
+[2021-11-18 08:54:35.237] [info   ] [aavm       ] [ 3840:15368] - avldrLoadModule [0];3;30
+[2021-11-18 08:54:35.240] [info   ] [aavm       ] [ 3840:13376] - avworkInitialize [0] (VPS: 21111706);3;30
+[2021-11-18 08:54:35.242] [info   ] [aavm       ] [ 3840:15368] - avworkInitialize [0] (VPS: 21111706);3;30
+"[2021-11-18 08:55:08.392] [info   ] [nosclient  ] [ 3840: 2600] failed to obtain txt records via dns; falling back to defaults";3;30
+[2021-11-18 08:55:20.423] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns srv record;3;30
+[2021-11-18 08:55:20.423] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns txt record;3;30
+[2021-11-18 08:55:20.423] [info   ] [nosclient  ] [ 3840: 2600] failed to find nos servers;3;30
+[2021-11-18 08:55:26.220] [info   ] [pp_provider] [ 3840: 4744] OnUpdateProductsList, products:;3;30
+[2021-11-18 08:55:26.936] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 08:55:26.936] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 08:55:26.936] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 08:55:53.667] [info   ] [hds        ] [ 3840: 4128] RouterChangedEvent(Realtek PCIe GBE Family Controller, Realtek PCIe GBE Family Controller);3;30
+[2021-11-18 08:57:10.630] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-18 08:57:43.361] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns srv record;3;30
+[2021-11-18 08:57:55.392] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns txt record;3;30
+[2021-11-18 08:57:55.392] [info   ] [nosclient  ] [ 3840: 2600] failed to find nos servers;3;30
+[2021-11-18 08:58:05.393] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 215128064;3;30
+[2021-11-18 08:58:05.393] [info   ] [perf_report] [ 3840: 5364] id: 3 -> CPU: 0, RAM 33742848;3;30
+[2021-11-18 08:58:05.393] [info   ] [perf_report] [ 3840: 5364] id: 6 -> CPU: 0, RAM 86016;3;30
+[2021-11-18 08:58:05.393] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 77250560;3;30
+[2021-11-18 08:58:05.393] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6782976;3;30
+[2021-11-18 08:58:05.393] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 117035008;3;30
+[2021-11-18 08:58:05.393] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 86622208;3;30
+[2021-11-18 08:59:05.327] [info   ] [shepsync   ] [ 3840: 4592] Update scheduled, internet connectivity restored;3;30
+[2021-11-18 08:59:05.332] [info   ] [shepsync   ] [ 3840:13228] Updating config...;3;30
+[2021-11-18 08:59:05.664] [info   ] [pp_provider] [ 3840: 2984] pp_provider::OnGetUrlParams, elm: 0;3;30
+[2021-11-18 08:59:05.703] [warning] [av_pp_prov ] [ 3840: 2984] app.anen.storage.app.preferred_network_value.get, key network_vulnerabilities (2);3;30
+[2021-11-18 08:59:05.714] [warning] [av_pp_prov ] [ 3840: 2984] Exception: Request 'public.AvastSecureLine.GetState' was not processed. Routing parameters:;3;30
+[2021-11-18 08:59:05.729] [info   ] [aavm       ] [ 3840: 2984] - In AavmGetEngineHandle;3;30
+[2021-11-18 08:59:05.736] [info   ] [av_pp_prov ] [ 3840: 2984] AvastIpmUrlApi::collect_params;3;30
+[2021-11-18 08:59:05.736] [info   ] [av_pp_prov ] [ 3840: 2984] AvastIpmUrlApi::collect_simple_params, elm:0;3;30
+[2021-11-18 08:59:05.736] [info   ] [av_pp_prov ] [ 3840: 2984] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-18 08:59:05.884] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 08:59:05.884] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 08:59:05.884] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 08:59:05.916] [info   ] [av_pp_prov ] [ 3840: 2984] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-18 08:59:05.916] [info   ] [av_pp_prov ] [ 3840: 2984] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-18 08:59:08.992] [info   ] [shepsync   ] [ 3840:13228] Update of config file by Instup succeeded.;3;30
+[2021-11-18 08:59:10.996] [info   ] [gui_cache  ] [ 3840: 5328] updating cache started;3;30
+[2021-11-18 08:59:11.024] [warning] [av_pp_prov ] [ 3840:13992] app.anen.storage.app.preferred_network_value.get, key network_vulnerabilities (2);3;30
+[2021-11-18 08:59:11.039] [warning] [av_pp_prov ] [ 3840:13992] Exception: Request 'public.AvastSecureLine.GetState' was not processed. Routing parameters:;3;30
+[2021-11-18 08:59:11.057] [info   ] [av_pp_prov ] [ 3840:13992] AvastIpmUrlApi::collect_params;3;30
+[2021-11-18 08:59:11.057] [info   ] [av_pp_prov ] [ 3840:13992] AvastIpmUrlApi::collect_simple_params, elm:-1;3;30
+[2021-11-18 08:59:11.058] [info   ] [av_pp_prov ] [ 3840:13992] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-18 08:59:11.088] [info   ] [av_pp_prov ] [ 3840:13992] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-18 08:59:11.088] [info   ] [av_pp_prov ] [ 3840:13992] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-18 08:59:11.164] [info   ] [gui_cache  ] [ 3840: 5328] downloaded update file from https://s-nuistatic.avcdn.net/nui/avast/1.0.672/updatefile.json;3;30
+[2021-11-18 08:59:11.586] [info   ] [gui_cache  ] [ 3840: 5328] nothing to update;3;30
+[2021-11-18 08:59:35.253] [info   ] [hds        ] [ 3840: 9956] RouterChangedEvent(Realtek PCIe GBE Family Controller, Realtek PCIe GBE Family Controller);3;30
+[2021-11-18 08:59:40.473] [info   ] [serv       ] [ 3840: 7836] Connected - call update.;3;30
+[2021-11-18 08:59:40.473] [info   ] [serv       ] [ 3840: 7836] TASKGUID_UPDATE_FINISHINSTALLATION started;3;30
+[2021-11-18 08:59:54.377] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-18 09:04:13.621] [info   ] [pp_provider] [ 3840:13228] pp_provider::OnGetUrlParamsBase64Ex;3;30
+[2021-11-18 09:04:13.644] [warning] [av_pp_prov ] [ 3840:13228] app.anen.storage.app.preferred_network_value.get, key network_vulnerabilities (2);3;30
+[2021-11-18 09:04:13.655] [warning] [av_pp_prov ] [ 3840:13228] Exception: Request 'public.AvastSecureLine.GetState' was not processed. Routing parameters:;3;30
+[2021-11-18 09:04:13.667] [info   ] [aavm       ] [ 3840:13228] - In AavmGetEngineHandle;3;30
+[2021-11-18 09:04:13.678] [info   ] [av_pp_prov ] [ 3840:13228] AvastIpmUrlApi::GetLocalPpProviderGpb;3;30
+[2021-11-18 09:04:13.678] [info   ] [av_pp_prov ] [ 3840:13228] AvastIpmUrlApi::collect_params;3;30
+[2021-11-18 09:04:13.678] [info   ] [av_pp_prov ] [ 3840:13228] AvastIpmUrlApi::collect_simple_params, elm:318;3;30
+[2021-11-18 09:04:13.679] [info   ] [av_pp_prov ] [ 3840:13228] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-18 09:04:13.727] [info   ] [av_pp_prov ] [ 3840:13228] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-18 09:04:13.727] [info   ] [av_pp_prov ] [ 3840:13228] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-18 09:04:13.727] [info   ] [pp_provider] [ 3840:13228] pp_provider::OnGetUrlParamsBase64Ex - serializing gpb;3;30
+[2021-11-18 09:04:13.729] [info   ] [nl_svc     ] [ 3840: 4768] Reserve action was acknowledged ('engagement').;3;30
+[2021-11-18 09:04:13.730] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value settings;3;30
+[2021-11-18 09:04:18.745] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value settings;3;30
+[2021-11-18 09:07:10.633] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-18 09:09:13.612] [info   ] [pp_provider] [ 3840: 9248] pp_provider::OnGetUrlParamsBase64Ex;3;30
+[2021-11-18 09:09:13.636] [warning] [av_pp_prov ] [ 3840: 9248] app.anen.storage.app.preferred_network_value.get, key network_vulnerabilities (2);3;30
+[2021-11-18 09:09:13.647] [warning] [av_pp_prov ] [ 3840: 9248] Exception: Request 'public.AvastSecureLine.GetState' was not processed. Routing parameters:;3;30
+[2021-11-18 09:09:13.659] [info   ] [av_pp_prov ] [ 3840: 9248] AvastIpmUrlApi::GetLocalPpProviderGpb;3;30
+[2021-11-18 09:09:13.659] [info   ] [av_pp_prov ] [ 3840: 9248] AvastIpmUrlApi::collect_params;3;30
+[2021-11-18 09:09:13.660] [info   ] [av_pp_prov ] [ 3840: 9248] AvastIpmUrlApi::collect_simple_params, elm:77;3;30
+[2021-11-18 09:09:13.660] [info   ] [av_pp_prov ] [ 3840: 9248] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-18 09:09:13.687] [info   ] [av_pp_prov ] [ 3840: 9248] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-18 09:09:13.687] [info   ] [av_pp_prov ] [ 3840: 9248] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-18 09:09:13.687] [info   ] [pp_provider] [ 3840: 9248] pp_provider::OnGetUrlParamsBase64Ex - serializing gpb;3;30
+[2021-11-18 09:09:13.689] [info   ] [nl_svc     ] [ 3840:11644] Reserve action was acknowledged ('engagement').;3;30
+[2021-11-18 09:09:13.689] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value settings;3;30
+[2021-11-18 09:09:18.700] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value settings;3;30
+[2021-11-18 09:09:58.368] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-18 09:17:10.638] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-18 09:17:44.980] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value SetupIniBackup;3;30
+[2021-11-18 09:17:44.980] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value EmLastAvs;3;30
+[2021-11-18 09:17:44.980] [error  ] [reg_access ] [ 3840: 4612] unsupported registry value type 3 for value EmLastChromeBR;3;30
+[2021-11-18 09:20:02.451] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-18 09:26:08.740] [info   ] [aavm_sds   ] [ 3840: 9920] ReloadUsersConfig start;3;30
+[2021-11-18 09:26:08.760] [info   ] [aavm_sds   ] [ 3840: 9920] ReloadUsersConfig end 0;3;30
+[2021-11-18 09:26:08.760] [info   ] [aavm_sds   ] [ 3840: 9920] ReloadUsersProcesses start;3;30
+[2021-11-18 09:26:08.760] [info   ] [aavm_sds   ] [ 3840: 9920] ReloadUsersProcesses end 0;3;30
+[2021-11-18 09:27:10.651] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-18 09:30:06.708] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-18 09:31:59.956] [info   ] [i_mutex    ] [ 3840: 9920] Mutex was successfully created 'Global\ff11a306a00f7e2d9bc619f342db24a0(avast-av)'.;3;30
+[2021-11-18 09:31:59.956] [info   ] [i_mutex    ] [ 3840: 9920] Going to take ownership of the fallback mutex 'Global\ff11a306a00f7e2d9bc619f342db24a0(avast-av)'.;3;30
+[2021-11-18 09:31:59.956] [info   ] [i_mutex    ] [ 3840: 9920] The ownership of the fallback mutex has been successfully taken 'Global\ff11a306a00f7e2d9bc619f342db24a0(avast-av)'.;3;30
+[2021-11-18 09:31:59.956] [info   ] [i_mutex    ] [ 3840: 9920] The ownership of the global synchronization mutex has been released 'Global\ff11a306a00f7e2d9bc619f342db24a0(avast-av)'.;3;30
+[2021-11-18 09:31:59.957] [info   ] [pp_provider] [ 3840:16988] OnUpdateProductsList, products:;3;30
+[2021-11-18 09:32:00.015] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 228896995;3;30
+[2021-11-18 09:32:00.015] [info   ] [perf_report] [ 3840: 5364] id: 3 -> CPU: 0, RAM 26131642;3;30
+[2021-11-18 09:32:00.015] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 92727296;3;30
+[2021-11-18 09:32:00.015] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6792305;3;30
+[2021-11-18 09:32:00.015] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 119434353;3;30
+[2021-11-18 09:32:00.015] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 79406115;3;30
+[2021-11-18 09:32:00.912] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 231124992;3;30
+[2021-11-18 09:32:00.913] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 96608256;3;30
+[2021-11-18 09:32:00.913] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6791168;3;30
+[2021-11-18 09:32:00.913] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 111521792;3;30
+[2021-11-18 09:32:00.913] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 111511552;3;30
+[2021-11-18 09:32:04.422] [info   ] [nosclient  ] [ 3840: 2600] connection no longer usable;3;30
+[2021-11-18 09:32:04.425] [error  ] [streaming  ] [ 3840: 5324] Streaming update request to su.ff.avast.com failed with error 11207:;3;30
+[2021-11-18 09:32:04.431] [info   ] [shepsync   ] [ 3840: 4592] Update postponed, no internet connectivity;3;30
+[2021-11-18 12:28:01.500] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 12:28:02.631] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 12:28:02.632] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 12:28:03.965] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_ads);3;30
+[2021-11-18 12:28:03.965] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_pmlex);3;30
+[2021-11-18 12:28:03.965] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_pmlst);3;30
+[2021-11-18 12:28:03.967] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params;3;30
+[2021-11-18 12:28:03.967] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params, elm:-1;3;30
+[2021-11-18 12:28:03.967] [info   ] [av_pp_prov ] [ 3840: 7800] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-18 12:28:04.001] [warning] [av_pp_prov ] [ 3840: 7800] app.ui.GetIpmParams failed: Request 'app.ui.GetIpmParams' was not processed. Routing parameters:;3;30
+[2021-11-18 12:28:04.001] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-18 12:28:04.001] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-18 12:28:04.023] [warning] [av_pp_prov ] [ 3840: 9432] unknown tag to get value for (p_ads);3;30
+[2021-11-18 12:28:04.023] [warning] [av_pp_prov ] [ 3840: 9432] unknown tag to get value for (p_pmlex);3;30
+[2021-11-18 12:28:04.023] [warning] [av_pp_prov ] [ 3840: 9432] unknown tag to get value for (p_pmlst);3;30
+[2021-11-18 12:28:04.024] [info   ] [av_pp_prov ] [ 3840: 9432] AvastIpmUrlApi::collect_params;3;30
+[2021-11-18 12:28:04.024] [info   ] [av_pp_prov ] [ 3840: 9432] AvastIpmUrlApi::collect_simple_params, elm:-1;3;30
+[2021-11-18 12:28:04.024] [info   ] [av_pp_prov ] [ 3840: 9432] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-18 12:28:04.035] [warning] [av_pp_prov ] [ 3840: 9432] app.ui.GetIpmParams failed: Request 'app.ui.GetIpmParams' was not processed. Routing parameters:;3;30
+[2021-11-18 12:28:04.035] [info   ] [av_pp_prov ] [ 3840: 9432] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-18 12:28:04.035] [info   ] [av_pp_prov ] [ 3840: 9432] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-18 12:28:04.149] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 12:28:04.149] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 12:28:04.149] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 12:28:04.372] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 231411712;3;30
+[2021-11-18 12:28:04.372] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 96608256;3;30
+[2021-11-18 12:28:04.372] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6733824;3;30
+[2021-11-18 12:28:04.372] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 111697920;3;30
+[2021-11-18 12:28:04.372] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 111612928;3;30
+[2021-11-18 12:28:06.124] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 12:28:06.124] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 12:28:06.124] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 12:28:07.634] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 12:28:07.634] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 12:28:07.634] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 12:28:09.243] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 12:28:09.243] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 12:28:09.243] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 12:28:20.543] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 231333888;3;30
+[2021-11-18 12:28:20.543] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 96608256;3;30
+[2021-11-18 12:28:20.543] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6762496;3;30
+[2021-11-18 12:28:20.543] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 111945728;3;30
+[2021-11-18 12:28:20.543] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 111662592;3;30
+[2021-11-18 12:28:20.546] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_ads);3;30
+[2021-11-18 12:28:20.546] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_pmlex);3;30
+[2021-11-18 12:28:20.546] [warning] [av_pp_prov ] [ 3840: 7800] unknown tag to get value for (p_pmlst);3;30
+[2021-11-18 12:28:20.547] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params;3;30
+[2021-11-18 12:28:20.547] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params, elm:-1;3;30
+[2021-11-18 12:28:20.548] [info   ] [av_pp_prov ] [ 3840: 7800] GetCleanupLicenseParams: Unable to get modification time of the license file 'C:\ProgramData\Avast Software\Subscriptions\license.avastgf'!;3;30
+[2021-11-18 12:28:20.583] [warning] [av_pp_prov ] [ 3840: 7800] app.ui.GetIpmParams failed: Request 'app.ui.GetIpmParams' was not processed. Routing parameters:;3;30
+[2021-11-18 12:28:20.583] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_simple_params - end;3;30
+[2021-11-18 12:28:20.583] [info   ] [av_pp_prov ] [ 3840: 7800] AvastIpmUrlApi::collect_params - end;3;30
+[2021-11-18 12:28:20.781] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 231333888;3;30
+[2021-11-18 12:28:20.781] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 96608256;3;30
+[2021-11-18 12:28:20.781] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6791168;3;30
+[2021-11-18 12:28:20.781] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 112250880;3;30
+[2021-11-18 12:28:20.781] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 111746048;3;30
+[2021-11-18 12:28:23.797] [info   ] [perf_report] [ 3840: 5364] id: 1 -> CPU: 0, RAM 231383040;3;30
+[2021-11-18 12:28:23.797] [info   ] [perf_report] [ 3840: 5364] id: 7 -> CPU: 0, RAM 96608256;3;30
+[2021-11-18 12:28:23.797] [info   ] [perf_report] [ 3840: 5364] id: 9 -> CPU: 0, RAM 6791168;3;30
+[2021-11-18 12:28:23.797] [info   ] [perf_report] [ 3840: 5364] id: 17 -> CPU: 0, RAM 112250880;3;30
+[2021-11-18 12:28:23.798] [info   ] [perf_report] [ 3840: 5364] id: 0 -> CPU: 0, RAM 111758336;3;30
+[2021-11-18 12:28:32.827] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 12:28:32.827] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 12:28:32.827] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+"[2021-11-18 12:28:44.885] [info   ] [nosclient  ] [ 3840: 2600] failed to obtain txt records via dns; falling back to defaults";3;30
+[2021-11-18 12:28:55.947] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns srv record;3;30
+[2021-11-18 12:28:55.947] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns txt record;3;30
+[2021-11-18 12:28:55.947] [info   ] [nosclient  ] [ 3840: 2600] failed to find nos servers;3;30
+[2021-11-18 12:29:15.798] [info   ] [pp_provider] [ 3840:10812] OnUpdateProductsList, products:;3;30
+[2021-11-18 12:29:16.485] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig start;3;30
+[2021-11-18 12:29:16.485] [warning] [aavm_sds   ] [ 3840: 5248] DataScanFull is not installed, no kernel filtering;3;30
+[2021-11-18 12:29:16.485] [info   ] [aavm_sds   ] [ 3840: 5248] ReloadFltConfig end 0;3;30
+[2021-11-18 12:29:16.825] [info   ] [hds        ] [ 3840: 6360] RouterChangedEvent(Realtek PCIe GBE Family Controller, Realtek PCIe GBE Family Controller);3;30
+[2021-11-18 12:30:47.478] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns srv record;3;30
+[2021-11-18 12:30:58.540] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns txt record;3;30
+[2021-11-18 12:30:58.540] [info   ] [nosclient  ] [ 3840: 2600] failed to find nos servers;3;30
+[2021-11-18 12:32:09.814] [info   ] [aavm       ] [ 3840:14124] - avldrLoadModule [0];3;30
+[2021-11-18 12:32:09.814] [info   ] [aavm       ] [ 3840:15368] - avldrLoadModule [0];3;30
+[2021-11-18 12:32:09.819] [info   ] [aavm       ] [ 3840:14124] - avworkInitialize [0] (VPS: 21111706);3;30
+[2021-11-18 12:32:09.822] [info   ] [aavm       ] [ 3840:15368] - avworkInitialize [0] (VPS: 21111706);3;30
+[2021-11-18 12:32:26.904] [info   ] [aavm       ] [ 3840:16184] - avldrLoadModule [0];3;30
+[2021-11-18 12:32:26.904] [info   ] [aavm       ] [ 3840:14132] - avldrLoadModule [0];3;30
+[2021-11-18 12:32:26.904] [info   ] [aavm       ] [ 3840: 2696] - avldrLoadModule [0];3;30
+[2021-11-18 12:32:26.904] [info   ] [aavm       ] [ 3840:12980] - avldrLoadModule [0];3;30
+[2021-11-18 12:32:26.908] [info   ] [aavm       ] [ 3840:16184] - avworkInitialize [0] (VPS: 21111706);3;30
+[2021-11-18 12:32:26.911] [info   ] [aavm       ] [ 3840: 2696] - avworkInitialize [0] (VPS: 21111706);3;30
+[2021-11-18 12:32:26.914] [info   ] [aavm       ] [ 3840:14132] - avworkInitialize [0] (VPS: 21111706);3;30
+[2021-11-18 12:32:26.917] [info   ] [aavm       ] [ 3840:12980] - avworkInitialize [0] (VPS: 21111706);3;30
+[2021-11-18 12:33:06.930] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-18 12:33:11.429] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns srv record;3;30
+[2021-11-18 12:33:22.523] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns txt record;3;30
+[2021-11-18 12:33:22.523] [info   ] [nosclient  ] [ 3840: 2600] failed to find nos servers;3;30
+[2021-11-18 12:35:06.766] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns srv record;3;30
+[2021-11-18 12:35:17.847] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns txt record;3;30
+[2021-11-18 12:35:17.847] [info   ] [nosclient  ] [ 3840: 2600] failed to find nos servers;3;30
+[2021-11-18 12:36:07.404] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-18 12:37:31.312] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns srv record;3;30
+[2021-11-18 12:37:42.387] [info   ] [nosclient  ] [ 3840: 2600] server finder: failed to obtain dns txt record;3;30
+[2021-11-18 12:38:06.239] [info   ] [smpl_submit] [ 3840: 6052] Nothing to be sent.;3;30
+[2021-11-18 12:43:06.945] [info   ] [aavm       ] [ 3840: 7724] - In AavmGetEngineHandle;3;30
+[2021-11-18 12:46:11.814] [info   ] [http_daemon] [ 3840: 5368] HttpServer connection accepted.;3;30
+[2021-11-18 12:50:56.157] [info   ] [shepsync   ] [ 3840: 4592] Update scheduled, internet connectivity restored;3;30
+[2021-11-18 12:50:56.157] [info   ] [pp_provider] [ 3840: 3044] pp_provider::OnGetUrlParamsBase64, elm: 0;3;30
+[2021-11-18 12:50:56.157] [info   ] [shepsync   ] [ 3840:13008] Updating config...;3;30
+[2021-11-18 12:50:56.157] [info   ] [pp_provider] [ 3840: 7800] pp_provider::OnGetUrlParamsBase64Ex;3;30
