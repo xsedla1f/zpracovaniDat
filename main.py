@@ -1,8 +1,3 @@
-# načíst soubory logů do proměnných (každý nový řádek, nový log)
-# název kategorie - ID (dictionary)
-# přiřadit category name, category ID, LES category
-# merge -> uložit do csv
-# randomize rows -> uložit finální soubor
 import csv
 from glob import glob
 import pandas
@@ -108,28 +103,26 @@ class CSVCreator:
         result_obj = pandas.concat([pandas.read_csv(file, delimiter=';') for file in glob('*_data_test.csv')])
         result_obj.to_csv(file_out, index=False, encoding="utf-8")
 
-    # list_of_files = [file for file in glob('*_data_train.csv')]
-    # print(list_of_files)
-
 
 if __name__ == '__main__':
     creator = CSVCreator()
-    # creator.create_all()
+    
+    creator.create_all()
 
-    # creator.split_csv('Android_data.csv')
-    # creator.split_csv('Apache_data.csv')
-    # creator.split_csv('Avast_data.csv')
-    # creator.split_csv('DNS_data.csv')
-    # creator.split_csv('Linux_data.csv')
-    # creator.split_csv('Mac_data.csv')
-    # creator.split_csv('Proxifier_data.csv')
-    # creator.split_csv('Snort_data.csv')
-    # creator.split_csv('SSHD_data.csv')
-    # creator.split_csv('Windows_data.csv')
+    creator.split_csv('Android_data.csv')
+    creator.split_csv('Apache_data.csv')
+    creator.split_csv('Avast_data.csv')
+    creator.split_csv('DNS_data.csv')
+    creator.split_csv('Linux_data.csv')
+    creator.split_csv('Mac_data.csv')
+    creator.split_csv('Proxifier_data.csv')
+    creator.split_csv('Snort_data.csv')
+    creator.split_csv('SSHD_data.csv')
+    creator.split_csv('Windows_data.csv')
 
-    # creator.merge_train('Train_data_merged.csv')
-    # creator.merge_validate('Validate_data_merged.csv')
-    # creator.merge_test('Test_data_merged.csv')
+    creator.merge_train('Train_data_merged.csv')
+    creator.merge_validate('Validate_data_merged.csv')
+    creator.merge_test('Test_data_merged.csv')
 
     dftrain = pandas.read_csv('Train_data_merged.csv', delimiter=',')
     print(dftrain)
@@ -139,10 +132,3 @@ if __name__ == '__main__':
 
     dftest = pandas.read_csv('Test_data_merged.csv', delimiter=',')
     print(dftest)
-
-# colab
-# inicializovat neuronovou síť
-# def kategorie
-# naučit model
-# otestovat model
-# df.to_csv('part1.csv')
