@@ -894,7 +894,6 @@
 05/17/2022 21:22:37 [info][WiFi][ WG-MAC=6C:63:9C:4A:0D:C4; STA-MAC=be:7d:d7:6b:da:59; IF=wlan1_0; SSID=Vodafone-1A1F; ConnectionState=connected; WirelessMode=802.11ac; LastTxPhyRate=175Mbps; LastRxPhyRate=6Mbps; MaxSupportedRate:866Mbps; EncryptMode=AES; AuthMode=WpaPsk; RSSI=-81dBm; Channel=5500MHz; Radio=5G; Bandwidth=80M; TxFailPkts=0; RetransPkts=0]
 05/17/2022 21:22:37 [info][WiFi][ REASON-CODE-DESCR=PREV_AUTH_NOT_VALID;REASON-CODE=2; WG-MAC=6C:63:9C:4A:0D:C3; STA-MAC=be:7d:d7:6b:da:59; IF=wlan0_0; SSID=Vodafone-1A1F; ConnectionState=forcedDisassociatedAuth; WirelessMode=802.11n; LastTxPhyRate=78Mbps; LastRxPhyRate=52Mbps; MaxSupportedRate:144Mbps; EncryptMode=AES; AuthMode=WpaPsk; RSSI=-66dBm; Channel=2462MHz; Radio=2.4G; Bandwidth=20M; TxFailPkts=0; RetransPkts=271]
 05/17/2022 21:22:41 [info][WiFi][ DISASSOC - MAC=be:7d:d7:6b:da:59, Reason=34; WG-MAC=6C:63:9C:4A:0D:C3; IF=wlan0_0]
-
 05/13/2022 04:03:24 [warning][Firewall][DoS Attack - TCP SYN FloodingIN=erouter0 OUT= MAC=ac:db:48:59:1a:22:00:01:5c:96:96:46:08:00:45:00:00:28 SRC=89.248.165.16 DST=86.49.84.236 LEN=40 TOS=0x00 PREC=0x00 TTL=242 ID=43942 PROTO=TCP SPT=47394 DPT=3216 WINDOW=1024 RES=0x00 SYN URGP=0 ]
 05/14/2022 01:25:04 [warning][Firewall][DoS Attack - TCP SYN FloodingIN=erouter0 OUT= MAC=ac:db:48:59:1a:22:00:01:5c:96:96:46:08:00:45:00:00:3c SRC=123.57.82.190 DST=86.49.84.236 LEN=60 TOS=0x00 PREC=0x00 TTL=34 ID=55757 DF PROTO=TCP SPT=56990 DPT=2002 WINDOW=29200 RES=0x00 SYN URGP=0 ]
 05/17/2022 21:24:45 [info][WiFi][ MAC be:7d:d7:6b:da:59 authentication with Vodafone-1A1F; WG-MAC=6C:63:9C:4A:0D:C3; IF=wlan0_0]
@@ -1343,7 +1342,6 @@
 05/17/2022 21:22:37 [info][WiFi][ WG-MAC=6C:63:9C:4A:0D:C4; STA-MAC=be:7d:d7:6b:da:59; IF=wlan1_0; SSID=Vodafone-1A1F; ConnectionState=connected; WirelessMode=802.11ac; LastTxPhyRate=175Mbps; LastRxPhyRate=6Mbps; MaxSupportedRate:866Mbps; EncryptMode=AES; AuthMode=WpaPsk; RSSI=-81dBm; Channel=5500MHz; Radio=5G; Bandwidth=80M; TxFailPkts=0; RetransPkts=0]
 05/17/2022 21:22:37 [info][WiFi][ REASON-CODE-DESCR=PREV_AUTH_NOT_VALID;REASON-CODE=2; WG-MAC=6C:63:9C:4A:0D:C3; STA-MAC=be:7d:d7:6b:da:59; IF=wlan0_0; SSID=Vodafone-1A1F; ConnectionState=forcedDisassociatedAuth; WirelessMode=802.11n; LastTxPhyRate=78Mbps; LastRxPhyRate=52Mbps; MaxSupportedRate:144Mbps; EncryptMode=AES; AuthMode=WpaPsk; RSSI=-66dBm; Channel=2462MHz; Radio=2.4G; Bandwidth=20M; TxFailPkts=0; RetransPkts=271]
 05/17/2022 21:22:41 [info][WiFi][ DISASSOC - MAC=be:7d:d7:6b:da:59, Reason=34; WG-MAC=6C:63:9C:4A:0D:C3; IF=wlan0_0]
-
 05/13/2022 04:03:24 [warning][Firewall][DoS Attack - TCP SYN FloodingIN=erouter0 OUT= MAC=ac:db:48:59:1a:22:00:01:5c:96:96:46:08:00:45:00:00:28 SRC=89.248.165.16 DST=86.49.84.236 LEN=40 TOS=0x00 PREC=0x00 TTL=242 ID=43942 PROTO=TCP SPT=47394 DPT=3216 WINDOW=1024 RES=0x00 SYN URGP=0 ]
 05/14/2022 01:25:04 [warning][Firewall][DoS Attack - TCP SYN FloodingIN=erouter0 OUT= MAC=ac:db:48:59:1a:22:00:01:5c:96:96:46:08:00:45:00:00:3c SRC=123.57.82.190 DST=86.49.84.236 LEN=60 TOS=0x00 PREC=0x00 TTL=34 ID=55757 DF PROTO=TCP SPT=56990 DPT=2002 WINDOW=29200 RES=0x00 SYN URGP=0 ]
 05/17/2022 21:24:45 [info][WiFi][ MAC be:7d:d7:6b:da:59 authentication with Vodafone-1A1F; WG-MAC=6C:63:9C:4A:0D:C3; IF=wlan0_0]
@@ -1792,7 +1790,6 @@
 05/17/2022 21:22:37 [info][WiFi][ WG-MAC=6C:63:9C:4A:0D:C4; STA-MAC=be:7d:d7:6b:da:59; IF=wlan1_0; SSID=Vodafone-1A1F; ConnectionState=connected; WirelessMode=802.11ac; LastTxPhyRate=175Mbps; LastRxPhyRate=6Mbps; MaxSupportedRate:866Mbps; EncryptMode=AES; AuthMode=WpaPsk; RSSI=-81dBm; Channel=5500MHz; Radio=5G; Bandwidth=80M; TxFailPkts=0; RetransPkts=0]
 05/17/2022 21:22:37 [info][WiFi][ REASON-CODE-DESCR=PREV_AUTH_NOT_VALID;REASON-CODE=2; WG-MAC=6C:63:9C:4A:0D:C3; STA-MAC=be:7d:d7:6b:da:59; IF=wlan0_0; SSID=Vodafone-1A1F; ConnectionState=forcedDisassociatedAuth; WirelessMode=802.11n; LastTxPhyRate=78Mbps; LastRxPhyRate=52Mbps; MaxSupportedRate:144Mbps; EncryptMode=AES; AuthMode=WpaPsk; RSSI=-66dBm; Channel=2462MHz; Radio=2.4G; Bandwidth=20M; TxFailPkts=0; RetransPkts=271]
 05/17/2022 21:22:41 [info][WiFi][ DISASSOC - MAC=be:7d:d7:6b:da:59, Reason=34; WG-MAC=6C:63:9C:4A:0D:C3; IF=wlan0_0]
-
 05/13/2022 04:03:24 [warning][Firewall][DoS Attack - TCP SYN FloodingIN=erouter0 OUT= MAC=ac:db:48:59:1a:22:00:01:5c:96:96:46:08:00:45:00:00:28 SRC=89.248.165.16 DST=86.49.84.236 LEN=40 TOS=0x00 PREC=0x00 TTL=242 ID=43942 PROTO=TCP SPT=47394 DPT=3216 WINDOW=1024 RES=0x00 SYN URGP=0 ]
 05/14/2022 01:25:04 [warning][Firewall][DoS Attack - TCP SYN FloodingIN=erouter0 OUT= MAC=ac:db:48:59:1a:22:00:01:5c:96:96:46:08:00:45:00:00:3c SRC=123.57.82.190 DST=86.49.84.236 LEN=60 TOS=0x00 PREC=0x00 TTL=34 ID=55757 DF PROTO=TCP SPT=56990 DPT=2002 WINDOW=29200 RES=0x00 SYN URGP=0 ]
 05/17/2022 21:24:45 [info][WiFi][ MAC be:7d:d7:6b:da:59 authentication with Vodafone-1A1F; WG-MAC=6C:63:9C:4A:0D:C3; IF=wlan0_0]
@@ -1998,3 +1995,6 @@
 05/19/2022 13:20:38 [info][WiFi][ DISASSOC - MAC=be:7d:d7:6b:da:59, Reason=34; WG-MAC=6C:63:9C:4A:0D:C3; IF=wlan0_0]
 05/19/2022 13:22:18 [info][WiFi][ MAC be:7d:d7:6b:da:59 authentication with Vodafone-1A1F; WG-MAC=6C:63:9C:4A:0D:C3; IF=wlan0_0]
 05/19/2022 13:22:18 [info][WiFi][ MAC be:7d:d7:6b:da:59 associated to Vodafone-1A1F; WG-MAC=6C:63:9C:4A:0D:C3; IF=wlan0_0]
+05/19/2022 13:06:38 [info][WiFi][ BSS-TM-RESP be:7d:d7:6b:da:59 status_code=6 bss_termination_delay=0]
+05/19/2022 13:22:18 [info][WiFi][ MAC be:7d:d7:6b:da:59 associated to Vodafone-1A1F; WG-MAC=6C:63:9C:4A:0D:C3; IF=wlan0_0]
+05/19/2022 13:06:38 [info][WiFi][ BSS-TM-RESP be:7d:d7:6b:da:59 status_code=6 bss_termination_delay=0]

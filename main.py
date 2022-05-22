@@ -7,7 +7,7 @@ from sklearn.utils import shuffle
 pd.set_option('max_colwidth', 85)
 
 class CSVCreator:
-    HEADER = ['log', 'lesID']
+    HEADER = ['labels', 'log']
 
     NAMES = ['Proxifier', 'Switch', 'Router', 'Firewall', 'Android', 'Linux', 'Mac', 'Windows', 'Browser', 'Cloud',
              'Analytics', 'Process', 'DNS', 'Apache', 'Antivirus', 'Auth', 'Botnet', 'Honeypot', 'Snort', 'Threat']
@@ -84,11 +84,11 @@ class CSVCreator:
         csvfname = os.path.splitext(name)[0] + '.csv'
 
         file = open('csv/' + csvfname, 'w', newline='')
-        writer = csv.writer(file, delimiter=';')
+        writer = csv.writer(file, delimiter=',')
 
         writer.writerow(self.HEADER)
         for line in txtfile:
-            writer.writerow([line.strip(), les])
+            writer.writerow([les, line.strip()])
 
         txtfile.close()
         file.close()
@@ -98,14 +98,14 @@ class CSVCreator:
             self.create_csv(name, column_vals['lesCategory'])
 
     def split_csv(self, fname):
-        reader = csv.DictReader(open('csv/' + fname, 'r'), delimiter=';')
+        reader = csv.DictReader(open('csv/' + fname, 'r'), delimiter=',')
         self._write_lines(reader, 1200, 'csv_train/' + os.path.splitext(fname)[0] + '_train' + '.csv')
         self._write_lines(reader, 400, 'csv_validate/' + os.path.splitext(fname)[0] + '_validate' + '.csv')
         self._write_lines(reader, 400, 'csv_test/' + os.path.splitext(fname)[0] + '_test' + '.csv')
 
     def _write_lines(self, reader, count, fpath):
         file = open(fpath, 'w', newline='')
-        writer = csv.writer(file, delimiter=';')
+        writer = csv.writer(file, delimiter=',')
 
         writer.writerow(self.HEADER)
         i = 0
@@ -121,15 +121,15 @@ class CSVCreator:
             self.split_csv(instance + '_data.csv')
 
     def merge_train(self, file_out):
-        result_obj = pd.concat([pd.read_csv(file, delimiter=';') for file in glob('csv_train/*_data_train.csv')])
+        result_obj = pd.concat([pd.read_csv(file, delimiter=',') for file in glob('csv_train/*_data_train.csv')])
         result_obj.to_csv(file_out, index=False, encoding="utf-8")
 
     def merge_validate(self, file_out):
-        result_obj = pd.concat([pd.read_csv(file, delimiter=';') for file in glob('csv_validate/*_data_validate.csv')])
+        result_obj = pd.concat([pd.read_csv(file, delimiter=',') for file in glob('csv_validate/*_data_validate.csv')])
         result_obj.to_csv(file_out, index=False, encoding="utf-8")
 
     def merge_test(self, file_out):
-        result_obj = pd.concat([pd.read_csv(file, delimiter=';') for file in glob('csv_test/*_data_test.csv')])
+        result_obj = pd.concat([pd.read_csv(file, delimiter=',') for file in glob('csv_test/*_data_test.csv')])
         result_obj.to_csv(file_out, index=False, encoding="utf-8")
 
     def shuffle_train(self, file_out):

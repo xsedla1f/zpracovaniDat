@@ -1,401 +1,401 @@
-log;lesID
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:;1
-May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext;1
-May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys;1
-May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit;1
-May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7;1
-May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console;1
-May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable;1
-May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console;1
-May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram;1
-May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.;1
-May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
-May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down;1
-May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up;1
+labels,log
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:36 192.168.1.1 61: May 19 08:43:35.086: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up May 19 08:45:05 192.168.1.1 62:"
+1,May 19 08:45:05 192.168.1.1 62: May 19 08:44:03.271: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:50:43 192.168.1.1 63: May 19 08:49:40.955: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:55:27 192.168.1.1 64: May 19 08:54:25.589: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:58:00 192.168.1.1 65: May 19 08:56:57.699: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:notify syslog contenttype plaintext
+1,May 19 08:58:03 192.168.1.1 66: May 19 08:57:01.214: %PARSER-5-CFGLOG_LOGGEDCMD: User:console logged command:hidekeys
+1,May 19 08:58:06 192.168.1.1 67: May 19 08:57:03.655: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:07 192.168.1.1 68: May 19 08:57:05.299: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:exit
+1,May 19 08:58:19 192.168.1.1 69: May 19 08:57:16.666: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:logging reload 7
+1,May 19 08:58:31 192.168.1.1 70: May 19 08:57:28.980: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 08:59:04 192.168.1.1 71: May 19 08:58:02.233: %SYS-5-PRIV_AUTH_PASS: Privilege level set to 15 by unknown on console
+1,May 19 08:59:04 192.168.1.1 72: May 19 08:58:02.233: %PARSER-5-CFGLOG_LOGGEDCMD: user:console logged command:!exec: enable
+1,May 19 08:59:38 192.168.1.1 73: May 19 08:58:36.005: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:45 192.168.1.1 74: May 19 09:01:42.702: %SYS-5-CONFIG_I: Configured from console by console
+1,May 19 09:02:52 192.168.1.1 75: May 19 09:01:49.724: %SYS-7-NV_BLOCK_INIT: Initialized the geometry of nvram
+1,May 19 09:03:08 192.168.1.1 76: May 19 09:02:05.989: %SYS-5-RELOAD: Reload requested by console. Reload Reason: Reload command.
+1,"May 19 08:44:23 192.168.1.1 56: May 19 08:43:21.597: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:24 192.168.1.1 57: May 19 08:43:22.595: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:27 192.168.1.1 58: May 19 08:43:24.675: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"
+1,"May 19 08:44:29 192.168.1.1 59: May 19 08:43:27.075: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to down"
+1,"May 19 08:44:36 192.168.1.1 60: May 19 08:43:34.079: %LINK-3-UPDOWN: Interface FastEthernet0/5, changed state to up"

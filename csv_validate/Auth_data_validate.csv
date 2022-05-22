@@ -1,401 +1,401 @@
-log;lesID
-Dec  1 02:24:39 ip-172-31-27-153 sshd[24063]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:40 ip-172-31-27-153 sshd[24064]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:41 ip-172-31-27-153 sshd[24065]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:41 ip-172-31-27-153 sshd[24066]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:42 ip-172-31-27-153 sshd[24067]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:43 ip-172-31-27-153 sshd[24068]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:46 ip-172-31-27-153 sshd[24069]: Invalid user admin  from 218.75.153.170;15
-Dec  1 02:24:46 ip-172-31-27-153 sshd[24069]: input_userauth_request: invalid user admin  [preauth];15
-Dec  1 02:24:48 ip-172-31-27-153 sshd[24069]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:24:49 ip-172-31-27-153 sshd[24071]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:50 ip-172-31-27-153 sshd[24072]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:51 ip-172-31-27-153 sshd[24074]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:51 ip-172-31-27-153 sshd[24075]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:52 ip-172-31-27-153 sshd[24076]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:56 ip-172-31-27-153 sshd[24077]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:57 ip-172-31-27-153 sshd[24078]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:58 ip-172-31-27-153 sshd[24079]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:24:59 ip-172-31-27-153 sshd[24080]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:00 ip-172-31-27-153 sshd[24081]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:02 ip-172-31-27-153 sshd[24082]: Invalid user admin  from 218.75.153.170;15
-Dec  1 02:25:02 ip-172-31-27-153 sshd[24082]: input_userauth_request: invalid user admin  [preauth];15
-Dec  1 02:25:04 ip-172-31-27-153 sshd[24082]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:25:05 ip-172-31-27-153 sshd[24084]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:06 ip-172-31-27-153 sshd[24085]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:07 ip-172-31-27-153 sshd[24086]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:08 ip-172-31-27-153 sshd[24087]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:09 ip-172-31-27-153 sshd[24088]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:12 ip-172-31-27-153 sshd[24089]: Invalid user admin  from 218.75.153.170;15
-Dec  1 02:25:12 ip-172-31-27-153 sshd[24089]: input_userauth_request: invalid user admin  [preauth];15
-Dec  1 02:25:14 ip-172-31-27-153 sshd[24089]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:25:14 ip-172-31-27-153 sshd[24091]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:15 ip-172-31-27-153 sshd[24092]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:16 ip-172-31-27-153 sshd[24093]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:17 ip-172-31-27-153 sshd[24094]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:18 ip-172-31-27-153 sshd[24095]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:18 ip-172-31-27-153 sshd[24096]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:19 ip-172-31-27-153 sshd[24097]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:20 ip-172-31-27-153 sshd[24098]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:21 ip-172-31-27-153 sshd[24099]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:22 ip-172-31-27-153 sshd[24100]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:23 ip-172-31-27-153 sshd[24101]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:26 ip-172-31-27-153 sshd[24103]: Invalid user admin  from 218.75.153.170;15
-Dec  1 02:25:26 ip-172-31-27-153 sshd[24103]: input_userauth_request: invalid user admin  [preauth];15
-Dec  1 02:25:28 ip-172-31-27-153 sshd[24103]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:25:32 ip-172-31-27-153 sshd[24105]: Invalid user admin  from 218.75.153.170;15
-Dec  1 02:25:32 ip-172-31-27-153 sshd[24105]: input_userauth_request: invalid user admin  [preauth];15
-Dec  1 02:25:34 ip-172-31-27-153 sshd[24105]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:25:35 ip-172-31-27-153 sshd[24108]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:40 ip-172-31-27-153 sshd[24113]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:47 ip-172-31-27-153 sshd[24119]: Invalid user admin  from 218.75.153.170;15
-Dec  1 02:25:47 ip-172-31-27-153 sshd[24119]: input_userauth_request: invalid user admin  [preauth];15
-Dec  1 02:25:50 ip-172-31-27-153 sshd[24119]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:25:50 ip-172-31-27-153 sshd[24121]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:51 ip-172-31-27-153 sshd[24122]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:54 ip-172-31-27-153 sshd[24125]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:54 ip-172-31-27-153 sshd[24126]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:58 ip-172-31-27-153 sshd[24127]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:25:59 ip-172-31-27-153 sshd[24128]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:00 ip-172-31-27-153 sshd[24129]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:01 ip-172-31-27-153 sshd[24130]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:02 ip-172-31-27-153 sshd[24131]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:05 ip-172-31-27-153 sshd[24132]: Invalid user admin  from 218.75.153.170;15
-Dec  1 02:26:05 ip-172-31-27-153 sshd[24132]: input_userauth_request: invalid user admin  [preauth];15
-Dec  1 02:26:10 ip-172-31-27-153 sshd[24132]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:26:10 ip-172-31-27-153 sshd[24134]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:11 ip-172-31-27-153 sshd[24135]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:15 ip-172-31-27-153 sshd[24136]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:16 ip-172-31-27-153 sshd[24137]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:17 ip-172-31-27-153 sshd[24138]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:17 ip-172-31-27-153 sshd[24139]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:18 ip-172-31-27-153 sshd[24140]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:19 ip-172-31-27-153 sshd[24141]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:20 ip-172-31-27-153 sshd[24142]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:23 ip-172-31-27-153 sshd[24143]: Invalid user admin  from 218.75.153.170;15
-Dec  1 02:26:23 ip-172-31-27-153 sshd[24143]: input_userauth_request: invalid user admin  [preauth];15
-Dec  1 02:26:23 ip-172-31-27-153 sshd[24143]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:26:24 ip-172-31-27-153 sshd[24145]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:24 ip-172-31-27-153 sshd[24146]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:25 ip-172-31-27-153 sshd[24147]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:26 ip-172-31-27-153 sshd[24148]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:27 ip-172-31-27-153 sshd[24149]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:28 ip-172-31-27-153 sshd[24150]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:29 ip-172-31-27-153 sshd[24151]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:30 ip-172-31-27-153 sshd[24152]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:30 ip-172-31-27-153 sshd[24153]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:31 ip-172-31-27-153 sshd[24154]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:32 ip-172-31-27-153 sshd[24155]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:34 ip-172-31-27-153 sshd[24157]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:35 ip-172-31-27-153 sshd[24158]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:35 ip-172-31-27-153 sshd[24159]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:38 ip-172-31-27-153 sshd[24160]: Invalid user postgres from 218.75.153.170;15
-Dec  1 02:26:38 ip-172-31-27-153 sshd[24160]: input_userauth_request: invalid user postgres [preauth];15
-Dec  1 02:26:41 ip-172-31-27-153 sshd[24160]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:26:42 ip-172-31-27-153 sshd[24163]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:43 ip-172-31-27-153 sshd[24164]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:44 ip-172-31-27-153 sshd[24165]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:46 ip-172-31-27-153 sshd[24166]: Invalid user postgres from 218.75.153.170;15
-Dec  1 02:26:46 ip-172-31-27-153 sshd[24166]: input_userauth_request: invalid user postgres [preauth];15
-Dec  1 02:26:48 ip-172-31-27-153 sshd[24166]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:26:48 ip-172-31-27-153 sshd[24168]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:52 ip-172-31-27-153 sshd[24170]: Invalid user postgres from 218.75.153.170;15
-Dec  1 02:26:52 ip-172-31-27-153 sshd[24170]: input_userauth_request: invalid user postgres [preauth];15
-Dec  1 02:26:53 ip-172-31-27-153 sshd[24170]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:26:54 ip-172-31-27-153 sshd[24172]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:54 ip-172-31-27-153 sshd[24173]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:55 ip-172-31-27-153 sshd[24174]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:56 ip-172-31-27-153 sshd[24175]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:57 ip-172-31-27-153 sshd[24176]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:58 ip-172-31-27-153 sshd[24177]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:59 ip-172-31-27-153 sshd[24178]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:26:59 ip-172-31-27-153 sshd[24179]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:01 ip-172-31-27-153 sshd[24181]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:02 ip-172-31-27-153 sshd[24182]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:03 ip-172-31-27-153 sshd[24183]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:05 ip-172-31-27-153 sshd[24185]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:06 ip-172-31-27-153 sshd[24186]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:06 ip-172-31-27-153 sshd[24187]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:07 ip-172-31-27-153 sshd[24188]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:08 ip-172-31-27-153 sshd[24189]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:09 ip-172-31-27-153 sshd[24190]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:10 ip-172-31-27-153 sshd[24191]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:11 ip-172-31-27-153 sshd[24192]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:12 ip-172-31-27-153 sshd[24193]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:13 ip-172-31-27-153 sshd[24194]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:15 ip-172-31-27-153 sshd[24195]: Invalid user postgres from 218.75.153.170;15
-Dec  1 02:27:15 ip-172-31-27-153 sshd[24195]: input_userauth_request: invalid user postgres [preauth];15
-Dec  1 02:27:17 ip-172-31-27-153 sshd[24195]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:27:18 ip-172-31-27-153 sshd[24198]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:19 ip-172-31-27-153 sshd[24199]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:20 ip-172-31-27-153 sshd[24200]: warning: can't get client address: Connection reset by peer;15
-Dec  1 02:27:20 ip-172-31-27-153 sshd[24200]: Could not write ident string to UNKNOWN;15
-Dec  1 02:27:26 ip-172-31-27-153 sshd[24201]: Invalid user postgres from 218.75.153.170;15
-Dec  1 02:27:26 ip-172-31-27-153 sshd[24201]: input_userauth_request: invalid user postgres [preauth];15
-Dec  1 02:27:31 ip-172-31-27-153 sshd[24201]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:27:31 ip-172-31-27-153 sshd[24203]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:40 ip-172-31-27-153 sshd[24208]: Invalid user postgres from 218.75.153.170;15
-Dec  1 02:27:40 ip-172-31-27-153 sshd[24208]: input_userauth_request: invalid user postgres [preauth];15
-Dec  1 02:27:42 ip-172-31-27-153 sshd[24208]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:27:47 ip-172-31-27-153 sshd[24214]: Could not write ident string to 218.75.153.170;15
-Dec  1 02:27:48 ip-172-31-27-153 sshd[24215]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:49 ip-172-31-27-153 sshd[24216]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:50 ip-172-31-27-153 sshd[24217]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:51 ip-172-31-27-153 sshd[24218]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:51 ip-172-31-27-153 sshd[24219]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:52 ip-172-31-27-153 sshd[24220]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:54 ip-172-31-27-153 sshd[24221]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:55 ip-172-31-27-153 sshd[24222]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:27:58 ip-172-31-27-153 sshd[24225]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:00 ip-172-31-27-153 sshd[24226]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:01 ip-172-31-27-153 sshd[24227]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:04 ip-172-31-27-153 sshd[24228]: Invalid user postgres from 218.75.153.170;15
-Dec  1 02:28:04 ip-172-31-27-153 sshd[24228]: input_userauth_request: invalid user postgres [preauth];15
-Dec  1 02:28:06 ip-172-31-27-153 sshd[24228]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:28:09 ip-172-31-27-153 sshd[24232]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:11 ip-172-31-27-153 sshd[24233]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:15 ip-172-31-27-153 sshd[24235]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:16 ip-172-31-27-153 sshd[24236]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:19 ip-172-31-27-153 sshd[24237]: Invalid user postgres from 218.75.153.170;15
-Dec  1 02:28:19 ip-172-31-27-153 sshd[24237]: input_userauth_request: invalid user postgres [preauth];15
-Dec  1 02:28:21 ip-172-31-27-153 sshd[24237]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:28:21 ip-172-31-27-153 sshd[24239]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:22 ip-172-31-27-153 sshd[24240]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:25 ip-172-31-27-153 sshd[24241]: Invalid user postgres from 218.75.153.170;15
-Dec  1 02:28:25 ip-172-31-27-153 sshd[24241]: input_userauth_request: invalid user postgres [preauth];15
-Dec  1 02:28:27 ip-172-31-27-153 sshd[24241]: fatal: Read from socket failed: Connection reset by peer [preauth];15
-Dec  1 02:28:28 ip-172-31-27-153 sshd[24243]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:30 ip-172-31-27-153 sshd[24245]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:31 ip-172-31-27-153 sshd[24246]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:28:32 ip-172-31-27-153 sshd[24247]: Did not receive identification string from 218.75.153.170;15
-Dec  1 02:31:27 ip-172-31-27-153 sshd[24249]: Connection closed by 101.64.236.194 [preauth];15
-Dec  1 02:31:58 ip-172-31-27-153 sshd[24261]: Connection closed by 101.64.236.194 [preauth];15
-Dec  1 02:32:33 ip-172-31-27-153 sshd[24263]: Connection closed by 101.64.236.146 [preauth];15
-Dec  1 02:33:06 ip-172-31-27-153 sshd[24265]: Connection closed by 101.64.236.146 [preauth];15
-Dec  1 02:34:06 ip-172-31-27-153 sshd[24267]: Connection closed by 101.64.236.146 [preauth];15
-Dec  1 02:36:05 ip-172-31-27-153 sshd[24271]: Invalid user admin from 101.64.236.146;15
-Dec  1 02:36:05 ip-172-31-27-153 sshd[24271]: input_userauth_request: invalid user admin [preauth];15
-Dec  1 02:36:06 ip-172-31-27-153 sshd[24271]: Connection closed by 101.64.236.146 [preauth];15
-Dec  1 03:00:37 ip-172-31-27-153 sshd[24290]: Connection closed by 122.225.109.196 [preauth];15
-Dec  1 03:00:45 ip-172-31-27-153 sshd[24288]: Connection closed by 122.225.109.196 [preauth];15
-Dec  1 03:00:49 ip-172-31-27-153 sshd[24292]: Connection closed by 122.225.109.196 [preauth];15
-Dec  1 03:17:01 ip-172-31-27-153 CRON[24299]: pam_unix(cron:session): session opened for user root by (uid=0);15
-Dec  1 03:17:02 ip-172-31-27-153 CRON[24299]: pam_unix(cron:session): session closed for user root;15
-Dec  1 03:42:50 ip-172-31-27-153 sshd[24318]: reverse mapping checking getaddrinfo for 18776080178.telemar.net.br [187.76.80.178] failed - POSSIBLE BREAK-IN ATTEMPT!;15
-Dec  1 03:42:50 ip-172-31-27-153 sshd[24318]: Invalid user admin from 187.76.80.178;15
-Dec  1 03:42:50 ip-172-31-27-153 sshd[24318]: input_userauth_request: invalid user admin [preauth];15
-Dec  1 03:42:50 ip-172-31-27-153 sshd[24318]: Received disconnect from 187.76.80.178: 11: Bye Bye [preauth];15
-Dec  1 03:42:55 ip-172-31-27-153 sshd[24320]: reverse mapping checking getaddrinfo for 18776080178.telemar.net.br [187.76.80.178] failed - POSSIBLE BREAK-IN ATTEMPT!;15
-Dec  1 03:42:55 ip-172-31-27-153 sshd[24320]: Invalid user guest from 187.76.80.178;15
-Dec  1 03:42:55 ip-172-31-27-153 sshd[24320]: input_userauth_request: invalid user guest [preauth];15
-Dec  1 03:42:55 ip-172-31-27-153 sshd[24320]: Received disconnect from 187.76.80.178: 11: Bye Bye [preauth];15
-Dec  1 03:43:03 ip-172-31-27-153 sshd[24322]: reverse mapping checking getaddrinfo for 18776080178.telemar.net.br [187.76.80.178] failed - POSSIBLE BREAK-IN ATTEMPT!;15
-Dec  1 03:43:03 ip-172-31-27-153 sshd[24322]: Invalid user support from 187.76.80.178;15
-Dec  1 03:43:03 ip-172-31-27-153 sshd[24322]: input_userauth_request: invalid user support [preauth];15
-Dec  1 03:43:03 ip-172-31-27-153 sshd[24322]: Received disconnect from 187.76.80.178: 11: Bye Bye [preauth];15
-Dec  1 03:51:19 ip-172-31-27-153 sshd[24336]: Connection closed by 117.27.158.78 [preauth];15
-Dec  1 03:51:35 ip-172-31-27-153 sshd[24338]: Connection closed by 117.27.158.78 [preauth];15
-Dec  1 03:52:08 ip-172-31-27-153 sshd[24340]: Connection closed by 117.27.158.78 [preauth];15
-Dec  1 04:17:01 ip-172-31-27-153 CRON[24358]: pam_unix(cron:session): session opened for user root by (uid=0);15
-Dec  1 04:17:01 ip-172-31-27-153 CRON[24358]: pam_unix(cron:session): session closed for user root;15
-Dec  1 04:31:18 ip-172-31-27-153 sshd[24364]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:18 ip-172-31-27-153 sshd[24366]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:18 ip-172-31-27-153 sshd[24368]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:19 ip-172-31-27-153 sshd[24370]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:19 ip-172-31-27-153 sshd[24372]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:19 ip-172-31-27-153 sshd[24374]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:20 ip-172-31-27-153 sshd[24376]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:20 ip-172-31-27-153 sshd[24378]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:20 ip-172-31-27-153 sshd[24380]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:20 ip-172-31-27-153 sshd[24382]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:21 ip-172-31-27-153 sshd[24384]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:21 ip-172-31-27-153 sshd[24386]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:21 ip-172-31-27-153 sshd[24388]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:21 ip-172-31-27-153 sshd[24390]: Invalid user oracle from 192.208.179.82;15
-Dec  1 04:31:21 ip-172-31-27-153 sshd[24390]: input_userauth_request: invalid user oracle [preauth];15
-Dec  1 04:31:21 ip-172-31-27-153 sshd[24390]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 04:31:22 ip-172-31-27-153 sshd[24392]: Invalid user test from 192.208.179.82;15
-Dec  1 04:31:22 ip-172-31-27-153 sshd[24392]: input_userauth_request: invalid user test [preauth];15
-Dec  1 04:31:22 ip-172-31-27-153 sshd[24392]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth];15
-Dec  1 05:17:01 ip-172-31-27-153 CRON[24424]: pam_unix(cron:session): session opened for user root by (uid=0);15
-Dec  1 05:17:01 ip-172-31-27-153 CRON[24424]: pam_unix(cron:session): session closed for user root;15
-Dec  1 06:17:01 ip-172-31-27-153 CRON[24462]: pam_unix(cron:session): session opened for user root by (uid=0);15
-Dec  1 06:17:01 ip-172-31-27-153 CRON[24462]: pam_unix(cron:session): session closed for user root;15
-Dec  1 06:24:18 ip-172-31-27-153 sshd[24467]: Invalid user eduardo from 173.234.32.210;15
-Dec  1 06:24:18 ip-172-31-27-153 sshd[24467]: input_userauth_request: invalid user eduardo [preauth];15
-Dec  1 06:24:19 ip-172-31-27-153 sshd[24467]: Received disconnect from 173.234.32.210: 11: Bye Bye [preauth];15
-Dec  1 06:24:19 ip-172-31-27-153 sshd[24469]: Invalid user eduardo from 173.234.32.210;15
-Dec  1 06:24:19 ip-172-31-27-153 sshd[24469]: input_userauth_request: invalid user eduardo [preauth];15
-Dec  1 06:24:19 ip-172-31-27-153 sshd[24469]: Received disconnect from 173.234.32.210: 11: Bye Bye [preauth];15
-Dec  1 06:24:19 ip-172-31-27-153 sshd[24471]: Invalid user eduardo from 173.234.32.210;15
-Dec  1 06:24:19 ip-172-31-27-153 sshd[24471]: input_userauth_request: invalid user eduardo [preauth];15
-Dec  1 06:24:19 ip-172-31-27-153 sshd[24471]: Received disconnect from 173.234.32.210: 11: Bye Bye [preauth];15
-Dec  1 06:25:01 ip-172-31-27-153 CRON[24473]: pam_unix(cron:session): session opened for user root by (uid=0);15
-Dec  1 06:43:43 ip-172-31-27-153 CRON[24473]: pam_unix(cron:session): session closed for user root;15
-Dec  1 06:52:01 ip-172-31-27-153 CRON[24682]: pam_unix(cron:session): session opened for user root by (uid=0);15
-Dec  1 06:52:01 ip-172-31-27-153 CRON[24682]: pam_unix(cron:session): session closed for user root;15
-Dec  1 07:17:01 ip-172-31-27-153 CRON[24702]: pam_unix(cron:session): session opened for user root by (uid=0);15
-Dec  1 07:17:01 ip-172-31-27-153 CRON[24702]: pam_unix(cron:session): session closed for user root;15
-Dec  1 08:17:01 ip-172-31-27-153 CRON[24749]: pam_unix(cron:session): session opened for user root by (uid=0);15
-Dec  1 08:17:01 ip-172-31-27-153 CRON[24749]: pam_unix(cron:session): session closed for user root;15
-Dec  1 08:31:02 ip-172-31-27-153 sshd[24756]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:03 ip-172-31-27-153 sshd[24758]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:04 ip-172-31-27-153 sshd[24761]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:04 ip-172-31-27-153 sshd[24763]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:05 ip-172-31-27-153 sshd[24765]: Invalid user test from 67.205.20.23;15
-Dec  1 08:31:05 ip-172-31-27-153 sshd[24765]: input_userauth_request: invalid user test [preauth];15
-Dec  1 08:31:05 ip-172-31-27-153 sshd[24765]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:06 ip-172-31-27-153 sshd[24767]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:07 ip-172-31-27-153 sshd[24769]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:07 ip-172-31-27-153 sshd[24771]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:08 ip-172-31-27-153 sshd[24773]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:09 ip-172-31-27-153 sshd[24775]: Invalid user dff from 67.205.20.23;15
-Dec  1 08:31:09 ip-172-31-27-153 sshd[24775]: input_userauth_request: invalid user dff [preauth];15
-Dec  1 08:31:09 ip-172-31-27-153 sshd[24775]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:09 ip-172-31-27-153 sshd[24777]: Invalid user guest from 67.205.20.23;15
-Dec  1 08:31:09 ip-172-31-27-153 sshd[24777]: input_userauth_request: invalid user guest [preauth];15
-Dec  1 08:31:10 ip-172-31-27-153 sshd[24777]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:10 ip-172-31-27-153 sshd[24779]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:11 ip-172-31-27-153 sshd[24781]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:12 ip-172-31-27-153 sshd[24783]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:13 ip-172-31-27-153 sshd[24785]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:13 ip-172-31-27-153 sshd[24787]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:14 ip-172-31-27-153 sshd[24789]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:15 ip-172-31-27-153 sshd[24791]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:16 ip-172-31-27-153 sshd[24793]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:16 ip-172-31-27-153 sshd[24795]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:17 ip-172-31-27-153 sshd[24797]: Invalid user test from 67.205.20.23;15
-Dec  1 08:31:17 ip-172-31-27-153 sshd[24797]: input_userauth_request: invalid user test [preauth];15
-Dec  1 08:31:17 ip-172-31-27-153 sshd[24797]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:18 ip-172-31-27-153 sshd[24799]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:19 ip-172-31-27-153 sshd[24801]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:19 ip-172-31-27-153 sshd[24803]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:20 ip-172-31-27-153 sshd[24805]: Invalid user 123 from 67.205.20.23;15
-Dec  1 08:31:20 ip-172-31-27-153 sshd[24805]: input_userauth_request: invalid user 123 [preauth];15
-Dec  1 08:31:20 ip-172-31-27-153 sshd[24805]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:21 ip-172-31-27-153 sshd[24807]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:22 ip-172-31-27-153 sshd[24809]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:22 ip-172-31-27-153 sshd[24811]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:23 ip-172-31-27-153 sshd[24813]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:24 ip-172-31-27-153 sshd[24815]: Invalid user oracle from 67.205.20.23;15
-Dec  1 08:31:24 ip-172-31-27-153 sshd[24815]: input_userauth_request: invalid user oracle [preauth];15
-Dec  1 08:31:24 ip-172-31-27-153 sshd[24815]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:24 ip-172-31-27-153 sshd[24817]: Invalid user ftp from 67.205.20.23;15
-Dec  1 08:31:24 ip-172-31-27-153 sshd[24817]: input_userauth_request: invalid user ftp [preauth];15
-Dec  1 08:31:25 ip-172-31-27-153 sshd[24817]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:25 ip-172-31-27-153 sshd[24819]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:26 ip-172-31-27-153 sshd[24821]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:27 ip-172-31-27-153 sshd[24823]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:28 ip-172-31-27-153 sshd[24825]: Invalid user guest from 67.205.20.23;15
-Dec  1 08:31:28 ip-172-31-27-153 sshd[24825]: input_userauth_request: invalid user guest [preauth];15
-Dec  1 08:31:28 ip-172-31-27-153 sshd[24825]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:28 ip-172-31-27-153 sshd[24827]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:29 ip-172-31-27-153 sshd[24829]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:30 ip-172-31-27-153 sshd[24831]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:31 ip-172-31-27-153 sshd[24833]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:31 ip-172-31-27-153 sshd[24835]: Invalid user nagios from 67.205.20.23;15
-Dec  1 08:31:31 ip-172-31-27-153 sshd[24835]: input_userauth_request: invalid user nagios [preauth];15
-Dec  1 08:31:31 ip-172-31-27-153 sshd[24835]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:32 ip-172-31-27-153 sshd[24837]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:33 ip-172-31-27-153 sshd[24839]: Invalid user test from 67.205.20.23;15
-Dec  1 08:31:33 ip-172-31-27-153 sshd[24839]: input_userauth_request: invalid user test [preauth];15
-Dec  1 08:31:33 ip-172-31-27-153 sshd[24839]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:34 ip-172-31-27-153 sshd[24841]: Invalid user git from 67.205.20.23;15
-Dec  1 08:31:34 ip-172-31-27-153 sshd[24841]: input_userauth_request: invalid user git [preauth];15
-Dec  1 08:31:34 ip-172-31-27-153 sshd[24841]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:35 ip-172-31-27-153 sshd[24843]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:35 ip-172-31-27-153 sshd[24845]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:36 ip-172-31-27-153 sshd[24847]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:37 ip-172-31-27-153 sshd[24849]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:38 ip-172-31-27-153 sshd[24851]: Invalid user test from 67.205.20.23;15
-Dec  1 08:31:38 ip-172-31-27-153 sshd[24851]: input_userauth_request: invalid user test [preauth];15
-Dec  1 08:31:38 ip-172-31-27-153 sshd[24851]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:38 ip-172-31-27-153 sshd[24853]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:39 ip-172-31-27-153 sshd[24855]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:40 ip-172-31-27-153 sshd[24857]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:41 ip-172-31-27-153 sshd[24859]: Invalid user 123456 from 67.205.20.23;15
-Dec  1 08:31:41 ip-172-31-27-153 sshd[24859]: input_userauth_request: invalid user 123456 [preauth];15
-Dec  1 08:31:41 ip-172-31-27-153 sshd[24859]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:41 ip-172-31-27-153 sshd[24861]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:42 ip-172-31-27-153 sshd[24863]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:43 ip-172-31-27-153 sshd[24865]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:44 ip-172-31-27-153 sshd[24867]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:45 ip-172-31-27-153 sshd[24869]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:45 ip-172-31-27-153 sshd[24871]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:46 ip-172-31-27-153 sshd[24873]: Invalid user zabbix from 67.205.20.23;15
-Dec  1 08:31:46 ip-172-31-27-153 sshd[24873]: input_userauth_request: invalid user zabbix [preauth];15
-Dec  1 08:31:46 ip-172-31-27-153 sshd[24873]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:47 ip-172-31-27-153 sshd[24875]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:48 ip-172-31-27-153 sshd[24877]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:48 ip-172-31-27-153 sshd[24879]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:49 ip-172-31-27-153 sshd[24881]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:50 ip-172-31-27-153 sshd[24883]: Invalid user test from 67.205.20.23;15
-Dec  1 08:31:50 ip-172-31-27-153 sshd[24883]: input_userauth_request: invalid user test [preauth];15
-Dec  1 08:31:50 ip-172-31-27-153 sshd[24883]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:51 ip-172-31-27-153 sshd[24885]: Invalid user test from 67.205.20.23;15
-Dec  1 08:31:51 ip-172-31-27-153 sshd[24885]: input_userauth_request: invalid user test [preauth];15
-Dec  1 08:31:51 ip-172-31-27-153 sshd[24885]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:51 ip-172-31-27-153 sshd[24887]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:52 ip-172-31-27-153 sshd[24889]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:53 ip-172-31-27-153 sshd[24891]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:54 ip-172-31-27-153 sshd[24893]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:54 ip-172-31-27-153 sshd[24895]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:55 ip-172-31-27-153 sshd[24897]: Invalid user apache from 67.205.20.23;15
-Dec  1 08:31:55 ip-172-31-27-153 sshd[24897]: input_userauth_request: invalid user apache [preauth];15
-Dec  1 08:31:55 ip-172-31-27-153 sshd[24897]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:56 ip-172-31-27-153 sshd[24899]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:57 ip-172-31-27-153 sshd[24901]: Invalid user sysadmin from 67.205.20.23;15
-Dec  1 08:31:57 ip-172-31-27-153 sshd[24901]: input_userauth_request: invalid user sysadmin [preauth];15
-Dec  1 08:31:57 ip-172-31-27-153 sshd[24901]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:57 ip-172-31-27-153 sshd[24903]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:58 ip-172-31-27-153 sshd[24905]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:31:59 ip-172-31-27-153 sshd[24907]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:00 ip-172-31-27-153 sshd[24909]: Invalid user oracle from 67.205.20.23;15
-Dec  1 08:32:00 ip-172-31-27-153 sshd[24909]: input_userauth_request: invalid user oracle [preauth];15
-Dec  1 08:32:00 ip-172-31-27-153 sshd[24909]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:00 ip-172-31-27-153 sshd[24911]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:01 ip-172-31-27-153 sshd[24913]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:02 ip-172-31-27-153 sshd[24915]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:03 ip-172-31-27-153 sshd[24917]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:03 ip-172-31-27-153 sshd[24919]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:04 ip-172-31-27-153 sshd[24921]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:05 ip-172-31-27-153 sshd[24923]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:06 ip-172-31-27-153 sshd[24925]: Invalid user guest from 67.205.20.23;15
-Dec  1 08:32:06 ip-172-31-27-153 sshd[24925]: input_userauth_request: invalid user guest [preauth];15
-Dec  1 08:32:06 ip-172-31-27-153 sshd[24925]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:06 ip-172-31-27-153 sshd[24927]: Invalid user test from 67.205.20.23;15
-Dec  1 08:32:06 ip-172-31-27-153 sshd[24927]: input_userauth_request: invalid user test [preauth];15
-Dec  1 08:32:06 ip-172-31-27-153 sshd[24927]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:07 ip-172-31-27-153 sshd[24929]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:08 ip-172-31-27-153 sshd[24931]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:09 ip-172-31-27-153 sshd[24933]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:09 ip-172-31-27-153 sshd[24935]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:10 ip-172-31-27-153 sshd[24937]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:11 ip-172-31-27-153 sshd[24939]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:12 ip-172-31-27-153 sshd[24941]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:12 ip-172-31-27-153 sshd[24943]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:13 ip-172-31-27-153 sshd[24945]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:14 ip-172-31-27-153 sshd[24947]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:15 ip-172-31-27-153 sshd[24949]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:15 ip-172-31-27-153 sshd[24951]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:16 ip-172-31-27-153 sshd[24953]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:17 ip-172-31-27-153 sshd[24955]: Invalid user guest from 67.205.20.23;15
-Dec  1 08:32:17 ip-172-31-27-153 sshd[24955]: input_userauth_request: invalid user guest [preauth];15
-Dec  1 08:32:17 ip-172-31-27-153 sshd[24955]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:18 ip-172-31-27-153 sshd[24957]: Invalid user tomcat from 67.205.20.23;15
-Dec  1 08:32:18 ip-172-31-27-153 sshd[24957]: input_userauth_request: invalid user tomcat [preauth];15
-Dec  1 08:32:18 ip-172-31-27-153 sshd[24957]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:18 ip-172-31-27-153 sshd[24959]: Invalid user test from 67.205.20.23;15
-Dec  1 08:32:18 ip-172-31-27-153 sshd[24959]: input_userauth_request: invalid user test [preauth];15
-Dec  1 08:32:18 ip-172-31-27-153 sshd[24959]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:19 ip-172-31-27-153 sshd[24961]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:20 ip-172-31-27-153 sshd[24963]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:21 ip-172-31-27-153 sshd[24965]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:21 ip-172-31-27-153 sshd[24967]: Invalid user guest from 67.205.20.23;15
-Dec  1 08:32:21 ip-172-31-27-153 sshd[24967]: input_userauth_request: invalid user guest [preauth];15
-Dec  1 08:32:21 ip-172-31-27-153 sshd[24967]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:22 ip-172-31-27-153 sshd[24969]: Invalid user Test from 67.205.20.23;15
-Dec  1 08:32:22 ip-172-31-27-153 sshd[24969]: input_userauth_request: invalid user Test [preauth];15
-Dec  1 08:32:22 ip-172-31-27-153 sshd[24969]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:23 ip-172-31-27-153 sshd[24971]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
-Dec  1 08:32:24 ip-172-31-27-153 sshd[24973]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth];15
+labels,log
+15,Dec  1 02:24:39 ip-172-31-27-153 sshd[24063]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:40 ip-172-31-27-153 sshd[24064]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:41 ip-172-31-27-153 sshd[24065]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:41 ip-172-31-27-153 sshd[24066]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:42 ip-172-31-27-153 sshd[24067]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:43 ip-172-31-27-153 sshd[24068]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:46 ip-172-31-27-153 sshd[24069]: Invalid user admin  from 218.75.153.170
+15,Dec  1 02:24:46 ip-172-31-27-153 sshd[24069]: input_userauth_request: invalid user admin  [preauth]
+15,Dec  1 02:24:48 ip-172-31-27-153 sshd[24069]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:24:49 ip-172-31-27-153 sshd[24071]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:50 ip-172-31-27-153 sshd[24072]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:51 ip-172-31-27-153 sshd[24074]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:51 ip-172-31-27-153 sshd[24075]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:52 ip-172-31-27-153 sshd[24076]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:56 ip-172-31-27-153 sshd[24077]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:57 ip-172-31-27-153 sshd[24078]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:58 ip-172-31-27-153 sshd[24079]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:24:59 ip-172-31-27-153 sshd[24080]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:00 ip-172-31-27-153 sshd[24081]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:02 ip-172-31-27-153 sshd[24082]: Invalid user admin  from 218.75.153.170
+15,Dec  1 02:25:02 ip-172-31-27-153 sshd[24082]: input_userauth_request: invalid user admin  [preauth]
+15,Dec  1 02:25:04 ip-172-31-27-153 sshd[24082]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:25:05 ip-172-31-27-153 sshd[24084]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:06 ip-172-31-27-153 sshd[24085]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:07 ip-172-31-27-153 sshd[24086]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:08 ip-172-31-27-153 sshd[24087]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:09 ip-172-31-27-153 sshd[24088]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:12 ip-172-31-27-153 sshd[24089]: Invalid user admin  from 218.75.153.170
+15,Dec  1 02:25:12 ip-172-31-27-153 sshd[24089]: input_userauth_request: invalid user admin  [preauth]
+15,Dec  1 02:25:14 ip-172-31-27-153 sshd[24089]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:25:14 ip-172-31-27-153 sshd[24091]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:15 ip-172-31-27-153 sshd[24092]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:16 ip-172-31-27-153 sshd[24093]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:17 ip-172-31-27-153 sshd[24094]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:18 ip-172-31-27-153 sshd[24095]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:18 ip-172-31-27-153 sshd[24096]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:19 ip-172-31-27-153 sshd[24097]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:20 ip-172-31-27-153 sshd[24098]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:21 ip-172-31-27-153 sshd[24099]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:22 ip-172-31-27-153 sshd[24100]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:23 ip-172-31-27-153 sshd[24101]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:26 ip-172-31-27-153 sshd[24103]: Invalid user admin  from 218.75.153.170
+15,Dec  1 02:25:26 ip-172-31-27-153 sshd[24103]: input_userauth_request: invalid user admin  [preauth]
+15,Dec  1 02:25:28 ip-172-31-27-153 sshd[24103]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:25:32 ip-172-31-27-153 sshd[24105]: Invalid user admin  from 218.75.153.170
+15,Dec  1 02:25:32 ip-172-31-27-153 sshd[24105]: input_userauth_request: invalid user admin  [preauth]
+15,Dec  1 02:25:34 ip-172-31-27-153 sshd[24105]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:25:35 ip-172-31-27-153 sshd[24108]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:40 ip-172-31-27-153 sshd[24113]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:47 ip-172-31-27-153 sshd[24119]: Invalid user admin  from 218.75.153.170
+15,Dec  1 02:25:47 ip-172-31-27-153 sshd[24119]: input_userauth_request: invalid user admin  [preauth]
+15,Dec  1 02:25:50 ip-172-31-27-153 sshd[24119]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:25:50 ip-172-31-27-153 sshd[24121]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:51 ip-172-31-27-153 sshd[24122]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:54 ip-172-31-27-153 sshd[24125]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:54 ip-172-31-27-153 sshd[24126]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:58 ip-172-31-27-153 sshd[24127]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:25:59 ip-172-31-27-153 sshd[24128]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:00 ip-172-31-27-153 sshd[24129]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:01 ip-172-31-27-153 sshd[24130]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:02 ip-172-31-27-153 sshd[24131]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:05 ip-172-31-27-153 sshd[24132]: Invalid user admin  from 218.75.153.170
+15,Dec  1 02:26:05 ip-172-31-27-153 sshd[24132]: input_userauth_request: invalid user admin  [preauth]
+15,Dec  1 02:26:10 ip-172-31-27-153 sshd[24132]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:26:10 ip-172-31-27-153 sshd[24134]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:11 ip-172-31-27-153 sshd[24135]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:15 ip-172-31-27-153 sshd[24136]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:16 ip-172-31-27-153 sshd[24137]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:17 ip-172-31-27-153 sshd[24138]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:17 ip-172-31-27-153 sshd[24139]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:18 ip-172-31-27-153 sshd[24140]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:19 ip-172-31-27-153 sshd[24141]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:20 ip-172-31-27-153 sshd[24142]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:23 ip-172-31-27-153 sshd[24143]: Invalid user admin  from 218.75.153.170
+15,Dec  1 02:26:23 ip-172-31-27-153 sshd[24143]: input_userauth_request: invalid user admin  [preauth]
+15,Dec  1 02:26:23 ip-172-31-27-153 sshd[24143]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:26:24 ip-172-31-27-153 sshd[24145]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:24 ip-172-31-27-153 sshd[24146]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:25 ip-172-31-27-153 sshd[24147]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:26 ip-172-31-27-153 sshd[24148]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:27 ip-172-31-27-153 sshd[24149]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:28 ip-172-31-27-153 sshd[24150]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:29 ip-172-31-27-153 sshd[24151]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:30 ip-172-31-27-153 sshd[24152]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:30 ip-172-31-27-153 sshd[24153]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:31 ip-172-31-27-153 sshd[24154]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:32 ip-172-31-27-153 sshd[24155]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:34 ip-172-31-27-153 sshd[24157]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:35 ip-172-31-27-153 sshd[24158]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:35 ip-172-31-27-153 sshd[24159]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:38 ip-172-31-27-153 sshd[24160]: Invalid user postgres from 218.75.153.170
+15,Dec  1 02:26:38 ip-172-31-27-153 sshd[24160]: input_userauth_request: invalid user postgres [preauth]
+15,Dec  1 02:26:41 ip-172-31-27-153 sshd[24160]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:26:42 ip-172-31-27-153 sshd[24163]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:43 ip-172-31-27-153 sshd[24164]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:44 ip-172-31-27-153 sshd[24165]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:46 ip-172-31-27-153 sshd[24166]: Invalid user postgres from 218.75.153.170
+15,Dec  1 02:26:46 ip-172-31-27-153 sshd[24166]: input_userauth_request: invalid user postgres [preauth]
+15,Dec  1 02:26:48 ip-172-31-27-153 sshd[24166]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:26:48 ip-172-31-27-153 sshd[24168]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:52 ip-172-31-27-153 sshd[24170]: Invalid user postgres from 218.75.153.170
+15,Dec  1 02:26:52 ip-172-31-27-153 sshd[24170]: input_userauth_request: invalid user postgres [preauth]
+15,Dec  1 02:26:53 ip-172-31-27-153 sshd[24170]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:26:54 ip-172-31-27-153 sshd[24172]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:54 ip-172-31-27-153 sshd[24173]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:55 ip-172-31-27-153 sshd[24174]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:56 ip-172-31-27-153 sshd[24175]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:57 ip-172-31-27-153 sshd[24176]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:58 ip-172-31-27-153 sshd[24177]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:59 ip-172-31-27-153 sshd[24178]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:26:59 ip-172-31-27-153 sshd[24179]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:01 ip-172-31-27-153 sshd[24181]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:02 ip-172-31-27-153 sshd[24182]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:03 ip-172-31-27-153 sshd[24183]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:05 ip-172-31-27-153 sshd[24185]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:06 ip-172-31-27-153 sshd[24186]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:06 ip-172-31-27-153 sshd[24187]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:07 ip-172-31-27-153 sshd[24188]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:08 ip-172-31-27-153 sshd[24189]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:09 ip-172-31-27-153 sshd[24190]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:10 ip-172-31-27-153 sshd[24191]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:11 ip-172-31-27-153 sshd[24192]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:12 ip-172-31-27-153 sshd[24193]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:13 ip-172-31-27-153 sshd[24194]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:15 ip-172-31-27-153 sshd[24195]: Invalid user postgres from 218.75.153.170
+15,Dec  1 02:27:15 ip-172-31-27-153 sshd[24195]: input_userauth_request: invalid user postgres [preauth]
+15,Dec  1 02:27:17 ip-172-31-27-153 sshd[24195]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:27:18 ip-172-31-27-153 sshd[24198]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:19 ip-172-31-27-153 sshd[24199]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:20 ip-172-31-27-153 sshd[24200]: warning: can't get client address: Connection reset by peer
+15,Dec  1 02:27:20 ip-172-31-27-153 sshd[24200]: Could not write ident string to UNKNOWN
+15,Dec  1 02:27:26 ip-172-31-27-153 sshd[24201]: Invalid user postgres from 218.75.153.170
+15,Dec  1 02:27:26 ip-172-31-27-153 sshd[24201]: input_userauth_request: invalid user postgres [preauth]
+15,Dec  1 02:27:31 ip-172-31-27-153 sshd[24201]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:27:31 ip-172-31-27-153 sshd[24203]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:40 ip-172-31-27-153 sshd[24208]: Invalid user postgres from 218.75.153.170
+15,Dec  1 02:27:40 ip-172-31-27-153 sshd[24208]: input_userauth_request: invalid user postgres [preauth]
+15,Dec  1 02:27:42 ip-172-31-27-153 sshd[24208]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:27:47 ip-172-31-27-153 sshd[24214]: Could not write ident string to 218.75.153.170
+15,Dec  1 02:27:48 ip-172-31-27-153 sshd[24215]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:49 ip-172-31-27-153 sshd[24216]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:50 ip-172-31-27-153 sshd[24217]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:51 ip-172-31-27-153 sshd[24218]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:51 ip-172-31-27-153 sshd[24219]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:52 ip-172-31-27-153 sshd[24220]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:54 ip-172-31-27-153 sshd[24221]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:55 ip-172-31-27-153 sshd[24222]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:27:58 ip-172-31-27-153 sshd[24225]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:00 ip-172-31-27-153 sshd[24226]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:01 ip-172-31-27-153 sshd[24227]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:04 ip-172-31-27-153 sshd[24228]: Invalid user postgres from 218.75.153.170
+15,Dec  1 02:28:04 ip-172-31-27-153 sshd[24228]: input_userauth_request: invalid user postgres [preauth]
+15,Dec  1 02:28:06 ip-172-31-27-153 sshd[24228]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:28:09 ip-172-31-27-153 sshd[24232]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:11 ip-172-31-27-153 sshd[24233]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:15 ip-172-31-27-153 sshd[24235]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:16 ip-172-31-27-153 sshd[24236]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:19 ip-172-31-27-153 sshd[24237]: Invalid user postgres from 218.75.153.170
+15,Dec  1 02:28:19 ip-172-31-27-153 sshd[24237]: input_userauth_request: invalid user postgres [preauth]
+15,Dec  1 02:28:21 ip-172-31-27-153 sshd[24237]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:28:21 ip-172-31-27-153 sshd[24239]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:22 ip-172-31-27-153 sshd[24240]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:25 ip-172-31-27-153 sshd[24241]: Invalid user postgres from 218.75.153.170
+15,Dec  1 02:28:25 ip-172-31-27-153 sshd[24241]: input_userauth_request: invalid user postgres [preauth]
+15,Dec  1 02:28:27 ip-172-31-27-153 sshd[24241]: fatal: Read from socket failed: Connection reset by peer [preauth]
+15,Dec  1 02:28:28 ip-172-31-27-153 sshd[24243]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:30 ip-172-31-27-153 sshd[24245]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:31 ip-172-31-27-153 sshd[24246]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:28:32 ip-172-31-27-153 sshd[24247]: Did not receive identification string from 218.75.153.170
+15,Dec  1 02:31:27 ip-172-31-27-153 sshd[24249]: Connection closed by 101.64.236.194 [preauth]
+15,Dec  1 02:31:58 ip-172-31-27-153 sshd[24261]: Connection closed by 101.64.236.194 [preauth]
+15,Dec  1 02:32:33 ip-172-31-27-153 sshd[24263]: Connection closed by 101.64.236.146 [preauth]
+15,Dec  1 02:33:06 ip-172-31-27-153 sshd[24265]: Connection closed by 101.64.236.146 [preauth]
+15,Dec  1 02:34:06 ip-172-31-27-153 sshd[24267]: Connection closed by 101.64.236.146 [preauth]
+15,Dec  1 02:36:05 ip-172-31-27-153 sshd[24271]: Invalid user admin from 101.64.236.146
+15,Dec  1 02:36:05 ip-172-31-27-153 sshd[24271]: input_userauth_request: invalid user admin [preauth]
+15,Dec  1 02:36:06 ip-172-31-27-153 sshd[24271]: Connection closed by 101.64.236.146 [preauth]
+15,Dec  1 03:00:37 ip-172-31-27-153 sshd[24290]: Connection closed by 122.225.109.196 [preauth]
+15,Dec  1 03:00:45 ip-172-31-27-153 sshd[24288]: Connection closed by 122.225.109.196 [preauth]
+15,Dec  1 03:00:49 ip-172-31-27-153 sshd[24292]: Connection closed by 122.225.109.196 [preauth]
+15,Dec  1 03:17:01 ip-172-31-27-153 CRON[24299]: pam_unix(cron:session): session opened for user root by (uid=0)
+15,Dec  1 03:17:02 ip-172-31-27-153 CRON[24299]: pam_unix(cron:session): session closed for user root
+15,Dec  1 03:42:50 ip-172-31-27-153 sshd[24318]: reverse mapping checking getaddrinfo for 18776080178.telemar.net.br [187.76.80.178] failed - POSSIBLE BREAK-IN ATTEMPT!
+15,Dec  1 03:42:50 ip-172-31-27-153 sshd[24318]: Invalid user admin from 187.76.80.178
+15,Dec  1 03:42:50 ip-172-31-27-153 sshd[24318]: input_userauth_request: invalid user admin [preauth]
+15,Dec  1 03:42:50 ip-172-31-27-153 sshd[24318]: Received disconnect from 187.76.80.178: 11: Bye Bye [preauth]
+15,Dec  1 03:42:55 ip-172-31-27-153 sshd[24320]: reverse mapping checking getaddrinfo for 18776080178.telemar.net.br [187.76.80.178] failed - POSSIBLE BREAK-IN ATTEMPT!
+15,Dec  1 03:42:55 ip-172-31-27-153 sshd[24320]: Invalid user guest from 187.76.80.178
+15,Dec  1 03:42:55 ip-172-31-27-153 sshd[24320]: input_userauth_request: invalid user guest [preauth]
+15,Dec  1 03:42:55 ip-172-31-27-153 sshd[24320]: Received disconnect from 187.76.80.178: 11: Bye Bye [preauth]
+15,Dec  1 03:43:03 ip-172-31-27-153 sshd[24322]: reverse mapping checking getaddrinfo for 18776080178.telemar.net.br [187.76.80.178] failed - POSSIBLE BREAK-IN ATTEMPT!
+15,Dec  1 03:43:03 ip-172-31-27-153 sshd[24322]: Invalid user support from 187.76.80.178
+15,Dec  1 03:43:03 ip-172-31-27-153 sshd[24322]: input_userauth_request: invalid user support [preauth]
+15,Dec  1 03:43:03 ip-172-31-27-153 sshd[24322]: Received disconnect from 187.76.80.178: 11: Bye Bye [preauth]
+15,Dec  1 03:51:19 ip-172-31-27-153 sshd[24336]: Connection closed by 117.27.158.78 [preauth]
+15,Dec  1 03:51:35 ip-172-31-27-153 sshd[24338]: Connection closed by 117.27.158.78 [preauth]
+15,Dec  1 03:52:08 ip-172-31-27-153 sshd[24340]: Connection closed by 117.27.158.78 [preauth]
+15,Dec  1 04:17:01 ip-172-31-27-153 CRON[24358]: pam_unix(cron:session): session opened for user root by (uid=0)
+15,Dec  1 04:17:01 ip-172-31-27-153 CRON[24358]: pam_unix(cron:session): session closed for user root
+15,Dec  1 04:31:18 ip-172-31-27-153 sshd[24364]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:18 ip-172-31-27-153 sshd[24366]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:18 ip-172-31-27-153 sshd[24368]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:19 ip-172-31-27-153 sshd[24370]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:19 ip-172-31-27-153 sshd[24372]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:19 ip-172-31-27-153 sshd[24374]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:20 ip-172-31-27-153 sshd[24376]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:20 ip-172-31-27-153 sshd[24378]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:20 ip-172-31-27-153 sshd[24380]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:20 ip-172-31-27-153 sshd[24382]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:21 ip-172-31-27-153 sshd[24384]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:21 ip-172-31-27-153 sshd[24386]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:21 ip-172-31-27-153 sshd[24388]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:21 ip-172-31-27-153 sshd[24390]: Invalid user oracle from 192.208.179.82
+15,Dec  1 04:31:21 ip-172-31-27-153 sshd[24390]: input_userauth_request: invalid user oracle [preauth]
+15,Dec  1 04:31:21 ip-172-31-27-153 sshd[24390]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 04:31:22 ip-172-31-27-153 sshd[24392]: Invalid user test from 192.208.179.82
+15,Dec  1 04:31:22 ip-172-31-27-153 sshd[24392]: input_userauth_request: invalid user test [preauth]
+15,Dec  1 04:31:22 ip-172-31-27-153 sshd[24392]: Received disconnect from 192.208.179.82: 11: Bye Bye [preauth]
+15,Dec  1 05:17:01 ip-172-31-27-153 CRON[24424]: pam_unix(cron:session): session opened for user root by (uid=0)
+15,Dec  1 05:17:01 ip-172-31-27-153 CRON[24424]: pam_unix(cron:session): session closed for user root
+15,Dec  1 06:17:01 ip-172-31-27-153 CRON[24462]: pam_unix(cron:session): session opened for user root by (uid=0)
+15,Dec  1 06:17:01 ip-172-31-27-153 CRON[24462]: pam_unix(cron:session): session closed for user root
+15,Dec  1 06:24:18 ip-172-31-27-153 sshd[24467]: Invalid user eduardo from 173.234.32.210
+15,Dec  1 06:24:18 ip-172-31-27-153 sshd[24467]: input_userauth_request: invalid user eduardo [preauth]
+15,Dec  1 06:24:19 ip-172-31-27-153 sshd[24467]: Received disconnect from 173.234.32.210: 11: Bye Bye [preauth]
+15,Dec  1 06:24:19 ip-172-31-27-153 sshd[24469]: Invalid user eduardo from 173.234.32.210
+15,Dec  1 06:24:19 ip-172-31-27-153 sshd[24469]: input_userauth_request: invalid user eduardo [preauth]
+15,Dec  1 06:24:19 ip-172-31-27-153 sshd[24469]: Received disconnect from 173.234.32.210: 11: Bye Bye [preauth]
+15,Dec  1 06:24:19 ip-172-31-27-153 sshd[24471]: Invalid user eduardo from 173.234.32.210
+15,Dec  1 06:24:19 ip-172-31-27-153 sshd[24471]: input_userauth_request: invalid user eduardo [preauth]
+15,Dec  1 06:24:19 ip-172-31-27-153 sshd[24471]: Received disconnect from 173.234.32.210: 11: Bye Bye [preauth]
+15,Dec  1 06:25:01 ip-172-31-27-153 CRON[24473]: pam_unix(cron:session): session opened for user root by (uid=0)
+15,Dec  1 06:43:43 ip-172-31-27-153 CRON[24473]: pam_unix(cron:session): session closed for user root
+15,Dec  1 06:52:01 ip-172-31-27-153 CRON[24682]: pam_unix(cron:session): session opened for user root by (uid=0)
+15,Dec  1 06:52:01 ip-172-31-27-153 CRON[24682]: pam_unix(cron:session): session closed for user root
+15,Dec  1 07:17:01 ip-172-31-27-153 CRON[24702]: pam_unix(cron:session): session opened for user root by (uid=0)
+15,Dec  1 07:17:01 ip-172-31-27-153 CRON[24702]: pam_unix(cron:session): session closed for user root
+15,Dec  1 08:17:01 ip-172-31-27-153 CRON[24749]: pam_unix(cron:session): session opened for user root by (uid=0)
+15,Dec  1 08:17:01 ip-172-31-27-153 CRON[24749]: pam_unix(cron:session): session closed for user root
+15,Dec  1 08:31:02 ip-172-31-27-153 sshd[24756]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:03 ip-172-31-27-153 sshd[24758]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:04 ip-172-31-27-153 sshd[24761]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:04 ip-172-31-27-153 sshd[24763]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:05 ip-172-31-27-153 sshd[24765]: Invalid user test from 67.205.20.23
+15,Dec  1 08:31:05 ip-172-31-27-153 sshd[24765]: input_userauth_request: invalid user test [preauth]
+15,Dec  1 08:31:05 ip-172-31-27-153 sshd[24765]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:06 ip-172-31-27-153 sshd[24767]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:07 ip-172-31-27-153 sshd[24769]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:07 ip-172-31-27-153 sshd[24771]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:08 ip-172-31-27-153 sshd[24773]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:09 ip-172-31-27-153 sshd[24775]: Invalid user dff from 67.205.20.23
+15,Dec  1 08:31:09 ip-172-31-27-153 sshd[24775]: input_userauth_request: invalid user dff [preauth]
+15,Dec  1 08:31:09 ip-172-31-27-153 sshd[24775]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:09 ip-172-31-27-153 sshd[24777]: Invalid user guest from 67.205.20.23
+15,Dec  1 08:31:09 ip-172-31-27-153 sshd[24777]: input_userauth_request: invalid user guest [preauth]
+15,Dec  1 08:31:10 ip-172-31-27-153 sshd[24777]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:10 ip-172-31-27-153 sshd[24779]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:11 ip-172-31-27-153 sshd[24781]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:12 ip-172-31-27-153 sshd[24783]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:13 ip-172-31-27-153 sshd[24785]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:13 ip-172-31-27-153 sshd[24787]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:14 ip-172-31-27-153 sshd[24789]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:15 ip-172-31-27-153 sshd[24791]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:16 ip-172-31-27-153 sshd[24793]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:16 ip-172-31-27-153 sshd[24795]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:17 ip-172-31-27-153 sshd[24797]: Invalid user test from 67.205.20.23
+15,Dec  1 08:31:17 ip-172-31-27-153 sshd[24797]: input_userauth_request: invalid user test [preauth]
+15,Dec  1 08:31:17 ip-172-31-27-153 sshd[24797]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:18 ip-172-31-27-153 sshd[24799]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:19 ip-172-31-27-153 sshd[24801]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:19 ip-172-31-27-153 sshd[24803]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:20 ip-172-31-27-153 sshd[24805]: Invalid user 123 from 67.205.20.23
+15,Dec  1 08:31:20 ip-172-31-27-153 sshd[24805]: input_userauth_request: invalid user 123 [preauth]
+15,Dec  1 08:31:20 ip-172-31-27-153 sshd[24805]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:21 ip-172-31-27-153 sshd[24807]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:22 ip-172-31-27-153 sshd[24809]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:22 ip-172-31-27-153 sshd[24811]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:23 ip-172-31-27-153 sshd[24813]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:24 ip-172-31-27-153 sshd[24815]: Invalid user oracle from 67.205.20.23
+15,Dec  1 08:31:24 ip-172-31-27-153 sshd[24815]: input_userauth_request: invalid user oracle [preauth]
+15,Dec  1 08:31:24 ip-172-31-27-153 sshd[24815]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:24 ip-172-31-27-153 sshd[24817]: Invalid user ftp from 67.205.20.23
+15,Dec  1 08:31:24 ip-172-31-27-153 sshd[24817]: input_userauth_request: invalid user ftp [preauth]
+15,Dec  1 08:31:25 ip-172-31-27-153 sshd[24817]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:25 ip-172-31-27-153 sshd[24819]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:26 ip-172-31-27-153 sshd[24821]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:27 ip-172-31-27-153 sshd[24823]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:28 ip-172-31-27-153 sshd[24825]: Invalid user guest from 67.205.20.23
+15,Dec  1 08:31:28 ip-172-31-27-153 sshd[24825]: input_userauth_request: invalid user guest [preauth]
+15,Dec  1 08:31:28 ip-172-31-27-153 sshd[24825]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:28 ip-172-31-27-153 sshd[24827]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:29 ip-172-31-27-153 sshd[24829]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:30 ip-172-31-27-153 sshd[24831]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:31 ip-172-31-27-153 sshd[24833]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:31 ip-172-31-27-153 sshd[24835]: Invalid user nagios from 67.205.20.23
+15,Dec  1 08:31:31 ip-172-31-27-153 sshd[24835]: input_userauth_request: invalid user nagios [preauth]
+15,Dec  1 08:31:31 ip-172-31-27-153 sshd[24835]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:32 ip-172-31-27-153 sshd[24837]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:33 ip-172-31-27-153 sshd[24839]: Invalid user test from 67.205.20.23
+15,Dec  1 08:31:33 ip-172-31-27-153 sshd[24839]: input_userauth_request: invalid user test [preauth]
+15,Dec  1 08:31:33 ip-172-31-27-153 sshd[24839]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:34 ip-172-31-27-153 sshd[24841]: Invalid user git from 67.205.20.23
+15,Dec  1 08:31:34 ip-172-31-27-153 sshd[24841]: input_userauth_request: invalid user git [preauth]
+15,Dec  1 08:31:34 ip-172-31-27-153 sshd[24841]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:35 ip-172-31-27-153 sshd[24843]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:35 ip-172-31-27-153 sshd[24845]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:36 ip-172-31-27-153 sshd[24847]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:37 ip-172-31-27-153 sshd[24849]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:38 ip-172-31-27-153 sshd[24851]: Invalid user test from 67.205.20.23
+15,Dec  1 08:31:38 ip-172-31-27-153 sshd[24851]: input_userauth_request: invalid user test [preauth]
+15,Dec  1 08:31:38 ip-172-31-27-153 sshd[24851]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:38 ip-172-31-27-153 sshd[24853]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:39 ip-172-31-27-153 sshd[24855]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:40 ip-172-31-27-153 sshd[24857]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:41 ip-172-31-27-153 sshd[24859]: Invalid user 123456 from 67.205.20.23
+15,Dec  1 08:31:41 ip-172-31-27-153 sshd[24859]: input_userauth_request: invalid user 123456 [preauth]
+15,Dec  1 08:31:41 ip-172-31-27-153 sshd[24859]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:41 ip-172-31-27-153 sshd[24861]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:42 ip-172-31-27-153 sshd[24863]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:43 ip-172-31-27-153 sshd[24865]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:44 ip-172-31-27-153 sshd[24867]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:45 ip-172-31-27-153 sshd[24869]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:45 ip-172-31-27-153 sshd[24871]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:46 ip-172-31-27-153 sshd[24873]: Invalid user zabbix from 67.205.20.23
+15,Dec  1 08:31:46 ip-172-31-27-153 sshd[24873]: input_userauth_request: invalid user zabbix [preauth]
+15,Dec  1 08:31:46 ip-172-31-27-153 sshd[24873]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:47 ip-172-31-27-153 sshd[24875]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:48 ip-172-31-27-153 sshd[24877]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:48 ip-172-31-27-153 sshd[24879]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:49 ip-172-31-27-153 sshd[24881]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:50 ip-172-31-27-153 sshd[24883]: Invalid user test from 67.205.20.23
+15,Dec  1 08:31:50 ip-172-31-27-153 sshd[24883]: input_userauth_request: invalid user test [preauth]
+15,Dec  1 08:31:50 ip-172-31-27-153 sshd[24883]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:51 ip-172-31-27-153 sshd[24885]: Invalid user test from 67.205.20.23
+15,Dec  1 08:31:51 ip-172-31-27-153 sshd[24885]: input_userauth_request: invalid user test [preauth]
+15,Dec  1 08:31:51 ip-172-31-27-153 sshd[24885]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:51 ip-172-31-27-153 sshd[24887]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:52 ip-172-31-27-153 sshd[24889]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:53 ip-172-31-27-153 sshd[24891]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:54 ip-172-31-27-153 sshd[24893]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:54 ip-172-31-27-153 sshd[24895]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:55 ip-172-31-27-153 sshd[24897]: Invalid user apache from 67.205.20.23
+15,Dec  1 08:31:55 ip-172-31-27-153 sshd[24897]: input_userauth_request: invalid user apache [preauth]
+15,Dec  1 08:31:55 ip-172-31-27-153 sshd[24897]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:56 ip-172-31-27-153 sshd[24899]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:57 ip-172-31-27-153 sshd[24901]: Invalid user sysadmin from 67.205.20.23
+15,Dec  1 08:31:57 ip-172-31-27-153 sshd[24901]: input_userauth_request: invalid user sysadmin [preauth]
+15,Dec  1 08:31:57 ip-172-31-27-153 sshd[24901]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:57 ip-172-31-27-153 sshd[24903]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:58 ip-172-31-27-153 sshd[24905]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:31:59 ip-172-31-27-153 sshd[24907]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:00 ip-172-31-27-153 sshd[24909]: Invalid user oracle from 67.205.20.23
+15,Dec  1 08:32:00 ip-172-31-27-153 sshd[24909]: input_userauth_request: invalid user oracle [preauth]
+15,Dec  1 08:32:00 ip-172-31-27-153 sshd[24909]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:00 ip-172-31-27-153 sshd[24911]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:01 ip-172-31-27-153 sshd[24913]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:02 ip-172-31-27-153 sshd[24915]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:03 ip-172-31-27-153 sshd[24917]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:03 ip-172-31-27-153 sshd[24919]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:04 ip-172-31-27-153 sshd[24921]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:05 ip-172-31-27-153 sshd[24923]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:06 ip-172-31-27-153 sshd[24925]: Invalid user guest from 67.205.20.23
+15,Dec  1 08:32:06 ip-172-31-27-153 sshd[24925]: input_userauth_request: invalid user guest [preauth]
+15,Dec  1 08:32:06 ip-172-31-27-153 sshd[24925]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:06 ip-172-31-27-153 sshd[24927]: Invalid user test from 67.205.20.23
+15,Dec  1 08:32:06 ip-172-31-27-153 sshd[24927]: input_userauth_request: invalid user test [preauth]
+15,Dec  1 08:32:06 ip-172-31-27-153 sshd[24927]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:07 ip-172-31-27-153 sshd[24929]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:08 ip-172-31-27-153 sshd[24931]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:09 ip-172-31-27-153 sshd[24933]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:09 ip-172-31-27-153 sshd[24935]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:10 ip-172-31-27-153 sshd[24937]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:11 ip-172-31-27-153 sshd[24939]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:12 ip-172-31-27-153 sshd[24941]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:12 ip-172-31-27-153 sshd[24943]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:13 ip-172-31-27-153 sshd[24945]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:14 ip-172-31-27-153 sshd[24947]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:15 ip-172-31-27-153 sshd[24949]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:15 ip-172-31-27-153 sshd[24951]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:16 ip-172-31-27-153 sshd[24953]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:17 ip-172-31-27-153 sshd[24955]: Invalid user guest from 67.205.20.23
+15,Dec  1 08:32:17 ip-172-31-27-153 sshd[24955]: input_userauth_request: invalid user guest [preauth]
+15,Dec  1 08:32:17 ip-172-31-27-153 sshd[24955]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:18 ip-172-31-27-153 sshd[24957]: Invalid user tomcat from 67.205.20.23
+15,Dec  1 08:32:18 ip-172-31-27-153 sshd[24957]: input_userauth_request: invalid user tomcat [preauth]
+15,Dec  1 08:32:18 ip-172-31-27-153 sshd[24957]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:18 ip-172-31-27-153 sshd[24959]: Invalid user test from 67.205.20.23
+15,Dec  1 08:32:18 ip-172-31-27-153 sshd[24959]: input_userauth_request: invalid user test [preauth]
+15,Dec  1 08:32:18 ip-172-31-27-153 sshd[24959]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:19 ip-172-31-27-153 sshd[24961]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:20 ip-172-31-27-153 sshd[24963]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:21 ip-172-31-27-153 sshd[24965]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:21 ip-172-31-27-153 sshd[24967]: Invalid user guest from 67.205.20.23
+15,Dec  1 08:32:21 ip-172-31-27-153 sshd[24967]: input_userauth_request: invalid user guest [preauth]
+15,Dec  1 08:32:21 ip-172-31-27-153 sshd[24967]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:22 ip-172-31-27-153 sshd[24969]: Invalid user Test from 67.205.20.23
+15,Dec  1 08:32:22 ip-172-31-27-153 sshd[24969]: input_userauth_request: invalid user Test [preauth]
+15,Dec  1 08:32:22 ip-172-31-27-153 sshd[24969]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:23 ip-172-31-27-153 sshd[24971]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
+15,Dec  1 08:32:24 ip-172-31-27-153 sshd[24973]: Received disconnect from 67.205.20.23: 11: Bye Bye [preauth]
